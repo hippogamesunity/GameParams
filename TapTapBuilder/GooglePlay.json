@@ -2,8 +2,8 @@
 	"SaleEventParams" :
 	{
 		"Enabled" : "True",
-		"StartTime" : "07/21/2016 00:00:00",
-		"EndTime" : "07/23/2016 00:00:00"
+		"StartTime" : "07/20/2016 00:00:00",
+		"EndTime" : "07/22/2016 00:00:00"
 	},
 	"ChatEnabled" : "True"
 }
