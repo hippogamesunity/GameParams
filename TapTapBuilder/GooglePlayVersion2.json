@@ -1,0 +1,9 @@
+{
+	"SaleEvents":
+	[
+		{"From":"11/26/2016","To":"11/26/2016"},
+		{"From":"11/26/2016","To":"11/26/2016"}
+	],
+	"ChatEnabled":true,
+	"Return":false
+}
