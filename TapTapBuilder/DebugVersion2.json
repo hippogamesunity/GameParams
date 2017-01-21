@@ -7,5 +7,6 @@
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
 	"ChatEnabled":true,
-	"Return":false
+	"Return":false,
+	"Unknown":false
 }
