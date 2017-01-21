@@ -3,6 +3,9 @@
 	[
 		{"From":"01/01/2016 00:00:00","To":"01/01/2020 00:00:00"}
 	],
+	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
+	"SaveInterval":30,
+	"CloudSaveInterval":300,
 	"ChatEnabled":true,
 	"Return":false
 }
