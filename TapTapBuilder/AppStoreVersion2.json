@@ -8,5 +8,8 @@
 		{"From":"02/12/2017 00:00:00","To":"02/14/2017 00:00:00"},
 		{"From":"02/26/2017 00:00:00","To":"02/28/2017 00:00:00"}
 	],
+	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
+	"SaveInterval":30,
+	"CloudSaveInterval":300,
 	"ChatEnabled":false
 }
