@@ -11,7 +11,7 @@
 	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
 	"TimeServerRegex":null,
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
-	"WebServiceEnabled":false,
+	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
 	"ChatEnabled":true
