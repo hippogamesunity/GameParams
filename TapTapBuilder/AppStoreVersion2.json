@@ -17,5 +17,6 @@
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
-	"ChatEnabled":false
+	"ChatEnabled":false,
+	"OverrideScores":true
 }
