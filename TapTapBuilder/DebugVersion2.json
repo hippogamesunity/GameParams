@@ -1,14 +1,6 @@
 {
 	"SaleEvents":
 	[
-		{"From":"12/25/2016 00:00:00","To":"12/27/2016 00:00:00"},
-		{"From":"01/01/2017 00:00:00","To":"01/03/2017 00:00:00"},
-		{"From":"01/16/2017 00:00:00","To":"01/18/2017 00:00:00"},
-		{"From":"01/28/2017 00:00:00","To":"01/30/2017 00:00:00"},
-		{"From":"02/12/2017 00:00:00","To":"02/14/2017 00:00:00"},
-		{"From":"02/20/2017 00:00:00","To":"02/22/2017 00:00:00"},
-		{"From":"03/01/2017 00:00:00","To":"03/03/2017 00:00:00"},
-		{"From":"03/11/2017 00:00:00","To":"03/13/2017 00:00:00"},
 		{"From":"03/21/2017 00:00:00","To":"03/23/2017 00:00:00"}
 	],
 	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
@@ -17,5 +9,6 @@
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
-	"ChatEnabled":false
+	"ChatEnabled":false,
+	"OverrideScores":true
 }
