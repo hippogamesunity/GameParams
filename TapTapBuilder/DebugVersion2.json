@@ -1,7 +1,10 @@
 {
 	"SaleEvents":
 	[
-		{"From":"03/21/2017 00:00:00","To":"03/23/2017 00:00:00"}
+		{"From":"03/21/2017 00:00:00","To":"03/23/2017 00:00:00"},
+		{"From":"04/01/2017 00:00:00","To":"04/03/2017 00:00:00"},
+		{"From":"04/10/2017 00:00:00","To":"04/13/2017 00:00:00"},
+		{"From":"04/23/2017 00:00:00","To":"04/26/2017 00:00:00"}
 	],
 	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
 	"TimeServerRegex":null,
