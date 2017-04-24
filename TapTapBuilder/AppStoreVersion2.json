@@ -17,5 +17,6 @@
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
 	"ChatEnabled":false,
-	"OverrideScores":true
+	"OverrideScores":true,
+	"AdProvider":"Native"
 }
