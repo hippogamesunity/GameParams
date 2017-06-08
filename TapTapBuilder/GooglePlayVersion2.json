@@ -17,5 +17,5 @@
 	"CloudSaveInterval":300,
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
-	"AdProvider":"FlyMob"
+	"AdProvider":"Native"
 }
