@@ -17,5 +17,6 @@
 	"CloudSaveInterval":300,
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
-	"AdProvider":"Native"
+	"AdProvider":"Native",
+	"AssistantSupportedLanguages":["Russian"]
 }

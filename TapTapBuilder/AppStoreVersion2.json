@@ -17,5 +17,6 @@
 	"CloudSaveInterval":300,
 	"ChatEnabled":false,
 	"OverrideScores":true,
-	"AdProvider":"Native"
+	"AdProvider":"Native",
+	"AssistantSupportedLanguages":["Russian"]
 }
