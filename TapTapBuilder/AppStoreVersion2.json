@@ -18,5 +18,6 @@
 	"ChatEnabled":false,
 	"OverrideScores":true,
 	"AdProvider":"Native",
-	"AssistantSupportedLanguages":["Russian"]
+	"AssistantSupportedLanguages":["Russian"],
+	"AssistantProjectIds":["xirzXWM7lli7UZqJ"]
 }
