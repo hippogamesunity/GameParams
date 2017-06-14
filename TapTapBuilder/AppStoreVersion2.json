@@ -15,7 +15,7 @@
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
-	"ChatEnabled":false,
+	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"Native",
 	"AssistantSupportedLanguages":["English","Russian"],
