@@ -1,13 +1,14 @@
 Question,Tags,Answer
-Default,,"I'm sorry, but I don't understand you. Try to say otherwise. I know everything about Tap Tap Builder, but no more. You can also email the game developers - they will definitely help you! [newline][yellow]support@herocraft.com[-]"
+Default,,"I'm sorry, but I don't understand you. Try to say otherwise. I know everything about Tap Tap Builder, but no more. You'd better ask developers, they will definitely help you! Please email to support@herocraft.com"
+Hello!,,"Hello, mayor! What can I help you with?"
 How can I get free Ruby Keys?,"how,ruby,key,free,get","Well, you can get Ruby Keys for free in the following ways:
 - subscribe us on Facebook to get free daily coupons
 - watch ads in Cinema and select random reward
-- build and upgrade Game Store to level 5 to get 1 Ruby Key per week. And upgrade it to level 10 to get 2 Ruby Keys per week
-- build a Crystal Bank to get 1 free Ruby Key everyday
+- build and upgrade Game Store
+- build Crystal Bank
 - collect 10 invite coupons using Pub
-- invite your friend from Facebook (open game settings to do this)
-- find Promo Codes in social networks using #TapTapBuilder hashtag
+- invite your friends on Facebook
+- find Promo Codes in social networks using #TapTapBuilder
 - make donations to Church, Cathedral or Mosque
 - catch rare red airplanes"
 How to get Golden Keys? And how can I use them?,"gold,key,get","- you are receiving Golden Keys when your city reaches a new level
@@ -15,16 +16,9 @@ How to get Golden Keys? And how can I use them?,"gold,key,get","- you are receiv
 - you can also use it in Pawnshop to get extra incomes
 - you can buy some Golden Keys in a Game Store"
 My game lags and crashes sometimes =(,"lag,crash,freeze,hang,slow,performance,optimizaton","Probably, the performance of your device is not enough. We know about this issue and working on fixing it, sorry."
-Where can I enter coupons (code) and what are they?,"coupon,code,post","- you can send and receive credits and resources using Post Office
-- Post Office will generate coupons for you which are 5-digit codes
-- you can receive coupons from other players and enter them in Post Office
-- all coupons are valid for 2 days"
-What are the invite coupons?,"invite,coupon,pub","- you can send invite coupon to another player using Pub
-- you can send only 5 invite coupons and receive up to 10 invite coupons
-- you will receive credits, resources and free keys for collecting invite coupons"
-I can't decode a coupon =(,"decode,coupon,code,error","- please check if your coupons was entered with no mistakes
-- make sure your Postal Code was used when generating coupon
-- all coupons are valid for 2 days"
+Where can I enter coupons (code) and what are they?,"coupon,code,post","You can send and receive credits and resources using Post Office. The coupons are 5-digit codes, and you can send them to other players. Note, that all coupons are valid for only 2 days!"
+What are the invite coupons?,"invite,coupon,pub","You can send invite code to another player using Pub. Invite code has 6 digits. You can send only 5 invite codes and receive up to 10 invite codes. You will receive credits, resources and keys for receiving invite codes from other players."
+I can't decode a coupon =(,"decode,coupon,code,error","First, check if your coupons was entered with no mistakes. Then make sure your Postal Code was used when generating coupon. Note, tnat all coupons are valid for only 2 days!"
 What are the Promo Codes?,"promo,code","- Promo Codes are not the same as coupons
 - Promo Codes are 6-digit codes
 - you can collect Promo Codes in Main Server
