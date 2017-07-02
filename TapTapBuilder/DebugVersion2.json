@@ -19,6 +19,5 @@
 	"OverrideScores":true,
 	"AdProvider":"Native",
 	"FlyMobRatio":1.00,
-	"AssistantSupportedLanguages":["English","Russian"],
-	"AssistantProjectIds":["qhTTRsBQRp2AvCeh","xirzXWM7lli7UZqJ"]
+	"AssistantSupportedLanguages":["English","Russian"]
 }
