@@ -1,7 +1,7 @@
 Question,Tags,Answer
 Default,,"I'm sorry, but I don't understand you. Try to say otherwise. I know everything about Tap Tap Builder, but no more. You'd better ask developers, they will definitely help you! Please email to support@herocraft.com"
 Hello!,,"Hello, mayor! What can I help you with?"
-How can I get free Ruby Keys?,"how,ruby,key,free,get","Well, you can get Ruby Keys for free in the following ways:
+How can I get free Ruby Keys?,"how,red,ruby,key,free,get","Well, you can get Ruby Keys for free in the following ways:
 - subscribe us on Facebook to get free daily coupons
 - watch ads in Cinema and select random reward
 - build and upgrade Game Store
@@ -26,7 +26,7 @@ How do I demolish buildings?,"how,demolish,destroy","- select the building you w
 - open it by double clicking
 - press the yellow wrench button
 - select demolish option"
-How do I move buildings?,"how,move,building","- select the building you want to move
+How do I move or rotate buildings?,"how,move,building","- select the building you want to move
 - open it by double clicking
 - press the yellow wrench button
 - select move option
@@ -40,11 +40,11 @@ How do I load my game?,"load,game,progress,city,town","- Can I play on other dev
 - yes, you can!
 - on the iOS, your progress will be automatically synced by iCloud
 - on other platforms, use cloud save / load feature to transfer your progress"
-"I'm stuck, I have no credits or resources. What I supposed to do?","stuck,lack,credits,iron,concrete,resources","- work in Office, Metallurgical Plant or Concrete Plant to get credits, metal and concrete
+"I'm stuck, I have no credits or resources. What I supposed to do?","stuck,lack,credits,iron,metal,concrete,resources","- work in Office, Metallurgical Plant or Concrete Plant to get credits, metal and concrete
 - ask other players to help you, they can send you resources using Post Office
 - just relax for a few hours and then return to the game =)"
 How to increase credits limit?,"credits,money,limit,maximum,increase","Build a Bank or Central Bank to increase maximum credits you can own. Moreover, you will receive % from all deposits when offline!"
-"I've got lack of employees, how to fix it?","employee,worker,population","- you can work in Apartment Buildings to increase your population
+"I've got lack of employees, how to fix it?","employee,worker,population,people,apartments","- you can work in Apartment Buildings to increase your population limit
 - wait a few hours and population will increase
 - build a Hospital and City Administration to increase population growth
 - demolish any building with employees to get free employees"
@@ -70,6 +70,13 @@ How to reset the game?,"resed,delete,progress",Navigate to the settings menu and
 I've got an error!,"error,red,bug,mistake","If you find an error in the game, then please report it for a reward! Send us email to support@herocraft.com and write out what happens and how to reproduce it."
 How to hack the game?,"hack,crack","I warn you that you can be blocked for hacking the game. In addition, I do not recommend you downloading and installing hacked versions of the game from the Internet, as this can lead to infection of your device with viruses."
 How do disable ads?,"ads,advertisement,disable","Ads allow you to play for free. Making any in-app purchase will disable ads forever. Also, if you watch Cinema ads, additional ads will not be forced automatically."
-I love you game!,"like,rate,feedback","It's good to hear that you like our game! If you write a review in the app store, then we will be totally happy!"
+I love your game!,"like,rate,feedback","It's good to hear that you like our game! If you write a review in the app store, then we will be totally happy!"
 How to build and upgrade?,,"Tap on the orange construction icon to build. You can also hold it to speed up construction process. If you want to upgrade any building, select it, then press magnifier button from menu, then press upgrade button. Alternatively, you can tap any building twice to open it."
 What to do next?,,"Well, you can build more Special buildings to speed up your progress. Or try to participate in game leaderboards. You can also visit and rate other cities from leaderboards."
+How to play? Help me!,manual,You can open help section from city info window. Open city info window from the main panel.
+What is your name? Who are you?,,"My name is Alice, I'm your personal assistant!"
+What is the Pawnshop?,,You can pawn your Golden Keys at the Pawnshop to gain interest. Or you can borrow Golden Keys and pay dues until you give them back. The keys can be returned at any moment. You can also exchange Golden Keys for additional slots for construction (this exchange can't be undone).
+Thanks!,,"Don't mention it, it's my work!"
+Where can I find my achievements?,,You'll need to build Obelisk from service projects first.
+How to paint buildings?,,Open building first and then press on the orange button with wrench icon to open service menu.
+What to do with the crime? How to extinguish the fire?,"criminal,police,fire,station","Ensure your city is secure by building a Police Station and a Fire Station. The greater the population, the higher the crime rate. The fire risk depends on the number of buildings."
