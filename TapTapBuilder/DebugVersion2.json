@@ -27,7 +27,8 @@
 			[
 				{"Language":"English","Message":"Hi!"},
 				{"Language":"Russian","Message":"Привет!"}
-			]
+			],
+			"Url":"ya.ru"
 		}
 	]
 }
