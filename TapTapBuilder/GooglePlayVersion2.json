@@ -19,5 +19,16 @@
 	"OverrideScores":true,
 	"AdProvider":"Native",
 	"FlyMobRatio":1.00,
-	"AssistantSupportedLanguages":["English","Russian"]
+	"AssistantSupportedLanguages":["English","Russian"],
+	"Announcements":
+	[
+		{
+			"Id":"Update 2.99","From":"07/01/2017 00:00:00","To":"07/31/2017 00:00:00",
+			"LocalizedMessages":
+			[
+				{"Language":"English","Message":"Hello! We've added online announcements in the update 2.9.9. They will be used to inform you about the most important game events!"},
+				{"Language":"Russian","Message":"Привет! В обновлении 2.9.9 мы добавили онлайн объявления, с помощью которых мы будем сообщать вам о самых важных событиях, которые происходят в игре!"}
+			]			
+		}
+	]
 }
