@@ -17,7 +17,7 @@
 	"CloudSaveInterval":300,
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
-	"AdProvider":"Native",
+	"AdProvider":"FlyMob",
 	"FlyMobRatio":1.00,
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":
