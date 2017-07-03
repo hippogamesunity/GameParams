@@ -19,5 +19,15 @@
 	"OverrideScores":true,
 	"AdProvider":"Native",
 	"FlyMobRatio":1.00,
-	"AssistantSupportedLanguages":["English","Russian"]
+	"AssistantSupportedLanguages":["English","Russian"],
+	"Announcements":
+	[
+		{
+			"Id":"Hi","From":"01/07/2017 00:00:00","To":"07/07/2017 00:00:00","LocalizedMessages":
+			[
+				{"Language":"English","Message":"Hi!"},
+				{"Language":"Russian","Message":"Привет!"}
+			]
+		}
+	]
 }
