@@ -31,7 +31,7 @@
 			]			
 		},
 		{
-			"Id":"Free coupons","From":"07/05/2017 00:00:00","To":"07/05/2017 23:59:00",
+			"Id":"Free daily coupons","From":"07/10/2017 00:00:00","To":"07/10/2017 23:59:00",
 			"LocalizedMessages":
 			[
 				{"Language":"English","Message":"Did you know we have have free daily coupons for you? Subscrive us on Facebook! KJ74V"},

@@ -29,6 +29,14 @@
 				{"Language":"English","Message":"Hello! We've added online announcements in the update 2.9.9. They will be used to inform you about the most important game events!"},
 				{"Language":"Russian","Message":"Привет! В обновлении 2.9.9 мы добавили онлайн объявления, с помощью которых мы будем сообщать вам о самых важных событиях, которые происходят в игре!"}
 			]			
+		},
+		{
+			"Id":"Free daily coupons","From":"07/10/2017 00:00:00","To":"07/10/2017 23:59:00",
+			"LocalizedMessages":
+			[
+				{"Language":"English","Message":"Did you know we have have free daily coupons for you? Subscrive us on Facebook! KJ74V"},
+				{"Language":"Russian","Message":"А вы знали, что мы каждый день публикуем халявные купоны в Facebook и VK? Подписывайтесь! KJ74V"}
+			]			
 		}
 	]
 }
