@@ -18,12 +18,12 @@
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"FlyMob",
-	"FlyMobRatio":1.00,
+	"FlyMobRatio":0.90,
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":
 	[
 		{
-			"Id":"Update 2.99","From":"07/01/2017 00:00:00","To":"07/31/2017 00:00:00",
+			"Id":"Update 2.9.9","From":"07/01/2017 00:00:00","To":"07/31/2017 00:00:00",
 			"LocalizedMessages":
 			[
 				{"Language":"English","Message":"Hello! We've added online announcements in the update 2.9.9. They will be used to inform you about the most important game events!"},
@@ -31,7 +31,7 @@
 			]			
 		},
 		{
-			"Id":"Free coupons","From":"07/07/2017 00:00:00","To":"07/07/2017 23:59:00",
+			"Id":"Free coupons","From":"05/07/2017 00:00:00","To":"05/07/2017 23:59:00",
 			"LocalizedMessages":
 			[
 				{"Language":"English","Message":"Did you know we have have free daily coupons for you? Subscrive us on Facebook! KJ74V"},
