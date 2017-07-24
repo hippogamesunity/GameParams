@@ -1,13 +1,13 @@
 {
 	"SaleEvents":
 	[
-		{"From":"06/03/2017 00:00:00","To":"06/05/2017 00:00:00"},
-		{"From":"06/13/2017 00:00:00","To":"06/15/2017 00:00:00"},
-		{"From":"06/23/2017 00:00:00","To":"06/25/2017 00:00:00"},
 		{"From":"07/03/2017 00:00:00","To":"07/05/2017 00:00:00"},
 		{"From":"07/10/2017 00:00:00","To":"07/12/2017 00:00:00"},
 		{"From":"07/17/2017 00:00:00","To":"07/19/2017 00:00:00"},
-		{"From":"07/24/2017 00:00:00","To":"07/26/2017 00:00:00"}
+		{"From":"07/24/2017 00:00:00","To":"07/26/2017 00:00:00"},
+		{"From":"08/03/2017 00:00:00","To":"08/05/2017 00:00:00"},
+		{"From":"08/13/2017 00:00:00","To":"08/15/2017 00:00:00"},
+		{"From":"08/23/2017 00:00:00","To":"08/25/2017 00:00:00"}
 	],
 	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
 	"TimeServerRegex":null,
@@ -26,17 +26,10 @@
 			"Id":"Update 2.9.9","From":"07/01/2017 00:00:00","To":"07/31/2017 00:00:00",
 			"LocalizedMessages":
 			[
-				{"Language":"English","Message":"Hello! We've added online announcements in the update 2.9.9. They will be used to inform you about the most important game events!"},
-				{"Language":"Russian","Message":"Привет! В обновлении 2.9.9 мы добавили онлайн объявления, с помощью которых мы будем сообщать вам о самых важных событиях, которые происходят в игре!"}
-			]			
-		},
-		{
-			"Id":"Free daily coupons","From":"07/10/2017 00:00:00","To":"07/10/2017 23:59:00",
-			"LocalizedMessages":
-			[
-				{"Language":"English","Message":"Did you know we have have free daily coupons for you? Subscrive us on Facebook! KJ74V"},
-				{"Language":"Russian","Message":"А вы знали, что мы каждый день публикуем халявные купоны в Facebook и VK? Подписывайтесь! KJ74V"}
+				{"Language":"English","Message":"Hello! We've added online announcements in the update 2.9.9. They will be used to inform you about the most important game events!","Url":""},
+				{"Language":"Russian","Message":"Привет! В обновлении 2.9.9 мы добавили онлайн объявления, с помощью которых мы будем сообщать вам о самых важных событиях, которые происходят в игре!","Url":""}
 			]			
 		}
-	]
+	],
+	"SplitTests":["Assistant"]
 }
