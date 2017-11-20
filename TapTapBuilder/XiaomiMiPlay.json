@@ -1,0 +1,36 @@
+{
+	"SaleEvents":
+	[
+		{"From":"10/03/2017 00:00:00","To":"10/05/2017 00:00:00"},
+		{"From":"10/13/2017 00:00:00","To":"10/15/2017 00:00:00"},
+		{"From":"10/23/2017 00:00:00","To":"10/25/2017 00:00:00"},
+		{"From":"11/03/2017 00:00:00","To":"11/05/2017 00:00:00"},
+		{"From":"11/10/2017 00:00:00","To":"11/12/2017 00:00:00"},
+		{"From":"11/17/2017 00:00:00","To":"11/19/2017 00:00:00"},
+		{"From":"11/24/2017 00:00:00","To":"11/26/2017 00:00:00"}
+	],
+	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
+	"TimeServerRegex":null,
+	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
+	"WebServiceEnabled":true,
+	"SaveInterval":30,
+	"CloudSaveInterval":300,
+	"PhotonChatEnabled":true,
+	"OverrideScores":true,
+	"AdProvider":"FlyMob",
+	"FlyMobRatio":0.90,
+	"UnityAdsSettings":{"Id":"109734"},
+	"AssistantSupportedLanguages":["English","Russian"],
+	"Announcements":
+	[
+		{
+			"Id":"SpellMastersPreview","From":"08/10/2017 00:00:00","To":"08/31/2017 00:00:00",
+			"LocalizedMessages":
+			[
+				{"Language":"English","Message":"Hello! We are working on a new project now - Spell Masters. It's fantasy turn-based game with async multiplayer. By the way we have demo-version you can play right now! Subscribe us on facebook!","Url":"https://www.facebook.com/SpellMastersTheDuels"},
+				{"Language":"Russian","Message":"Привет! Мы работаем над новым проектом, который называется Spell Masters! Это пошаговые PvP сражения в фэнтези мире. Кстати, у нас уже есть демо-версия, в которую можно поиграть! Подписывайтесь и следите за проектом!","Url":"https://vk.com/spellm"}
+			]			
+		}
+	],
+	"SplitTests":[]
+}
