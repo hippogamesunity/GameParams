@@ -20,16 +20,6 @@
 	"AdProvider":"Native",
 	"UnityAdsSettings":{"Id":"1200602"},
 	"AssistantSupportedLanguages":["English","Russian"],
-	"Announcements":
-	[
-		{
-			"Id":"SpellMastersPreview","From":"08/10/2017 00:00:00","To":"08/31/2017 00:00:00",
-			"LocalizedMessages":
-			[
-				{"Language":"English","Message":"Hello! We are working on a new project now - Spell Masters. It's fantasy turn-based game with async multiplayer. By the way we have demo-version you can play right now! Subscribe us on facebook!","Url":"https://www.facebook.com/SpellMastersTheDuels"},
-				{"Language":"Russian","Message":"Привет! Мы работаем над новым проектом, который называется Spell Masters! Это пошаговые PvP сражения в фэнтези мире. Кстати, у нас уже есть демо-версия, в которую можно поиграть! Подписывайтесь и следите за проектом!","Url":"https://vk.com/spellm"}
-			]			
-		}
-	],
+	"Announcements":[],
 	"SplitTests":["KeyPriceTest"]
 }
