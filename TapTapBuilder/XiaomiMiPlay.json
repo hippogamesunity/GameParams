@@ -21,7 +21,7 @@
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"Native",
-	"UnityAdsSettings":{"Id":"109734"},
+	"UnityAdsSettings":{"Id":"1637123"},
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":[],
 	"SplitTests":["KeyPriceTest"]
