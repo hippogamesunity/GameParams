@@ -18,7 +18,7 @@
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"FlyMob",
-	"FlyMobRatio":1.00,
+	"FlyMobRatio":0.00,
 	"UnityAdsSettings":{"Id":"109734"},
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":
