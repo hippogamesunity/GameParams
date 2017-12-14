@@ -19,7 +19,7 @@
 	"OverrideScores":true,
 	"AdProvider":"FlyMob",
 	"FlyMobRatio":0.00,
-	"UnityAdsSettings":{"Id":"109734"},
+	"UnityAdsSettings":{"Id":"109734","Default":"1629705","SwitchRatio":0.50},
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":
 	[
