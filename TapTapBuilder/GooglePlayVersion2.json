@@ -15,7 +15,7 @@
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
-	"CloudSaveInterval":300,
+	"CloudSaveInterval":600,
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"FlyMob",
