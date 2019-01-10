@@ -21,5 +21,7 @@
 	"AdProvider":"Native",
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":[],
-	"SplitTests":["KeyPriceTest"]
+	"SplitTests":["KeyPriceTest"],
+	"GeoIpServer":"http://ip-api.com/json/",
+	"GeoIpServerJsonKey":"countryCode",
 }
