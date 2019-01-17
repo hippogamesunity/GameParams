@@ -9,7 +9,7 @@
 		{"From":"10/13/2017 00:00:00","To":"10/15/2017 00:00:00"},
 		{"From":"10/23/2017 00:00:00","To":"10/25/2017 00:00:00"}
 	],
-	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
+	"TimeServer":"https://script.google.com/macros/s/AKfycbyq466gUa5n3gq-Kg6pay-veGsqtksD1oFfcv8Edr-rs1x6AnBo/exec",
 	"TimeServerRegex":null,
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
 	"WebServiceEnabled":true,
