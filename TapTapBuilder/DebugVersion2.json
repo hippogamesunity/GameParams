@@ -1,15 +1,6 @@
 {
-	"SaleEvents":
-	[
-		{"From":"09/03/2017 00:00:00","To":"09/05/2017 00:00:00"},
-		{"From":"09/10/2017 00:00:00","To":"09/12/2017 00:00:00"},
-		{"From":"09/17/2017 00:00:00","To":"09/19/2017 00:00:00"},
-		{"From":"09/24/2017 00:00:00","To":"09/26/2017 00:00:00"},
-		{"From":"10/03/2017 00:00:00","To":"10/05/2017 00:00:00"},
-		{"From":"10/13/2017 00:00:00","To":"10/15/2017 00:00:00"},
-		{"From":"10/23/2017 00:00:00","To":"10/25/2017 00:00:00"}
-	],
-	"TimeServer":"https://script.google.com/macros/s/AKfycbyq466gUa5n3gq-Kg6pay-veGsqtksD1oFfcv8Edr-rs1x6AnBo/exec",
+	"SaleEvents":[],
+	"TimeServer":"https://script.google.com/macros/s/AKfycbxpDRD9taKEuF6EF1rsdZ3GrPEG7rA_20jp-3lC086kgN2kR2m3/exec",
 	"TimeServerRegex":null,
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
 	"WebServiceEnabled":true,

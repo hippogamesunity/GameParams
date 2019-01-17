@@ -1,16 +1,6 @@
 {
-	"SaleEvents":
-	[
-		{"From":"02/20/2018 00:00:00","To":"02/22/2018 00:00:00"},
-		{"From":"03/03/2018 00:00:00","To":"03/05/2018 00:00:00"},
-		{"From":"03/10/2018 00:00:00","To":"03/12/2018 00:00:00"},
-		{"From":"03/17/2018 00:00:00","To":"03/19/2018 00:00:00"},
-		{"From":"03/24/2018 00:00:00","To":"03/26/2018 00:00:00"},
-		{"From":"04/03/2018 00:00:00","To":"04/05/2018 00:00:00"},
-		{"From":"04/13/2018 00:00:00","To":"04/15/2018 00:00:00"},
-		{"From":"04/23/2018 00:00:00","To":"04/25/2018 00:00:00"}
-	],
-	"TimeServer":"https://script.google.com/macros/s/AKfycbyq466gUa5n3gq-Kg6pay-veGsqtksD1oFfcv8Edr-rs1x6AnBo/exec",
+	"SaleEvents":[],
+	"TimeServer":"https://script.google.com/macros/s/AKfycbxpDRD9taKEuF6EF1rsdZ3GrPEG7rA_20jp-3lC086kgN2kR2m3/exec",
 	"TimeServerRegex":null,
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
 	"WebServiceEnabled":true,
