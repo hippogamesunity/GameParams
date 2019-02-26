@@ -5,12 +5,12 @@
 	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
-	"CloudSaveInterval":300,
+	"CloudSaveInterval":600,
 	"PhotonChatEnabled":true,
 	"OverrideScores":true,
 	"AdProvider":"FlyMob",
-	"FlyMobRatio":1.00,
-	"UnityAdsSettings":{"Id":"109734","Default":"1629705","SwitchRatio":0.50},
+	"FlyMobRatio":0.00,
+	"UnityAdsSettings":{"Id":"109734","Default":"1629705","SwitchRatio":0.00},
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":
 	[
@@ -23,5 +23,7 @@
 			]			
 		}
 	],
-	"SplitTests":["KeyPriceTest"]
+	"SplitTests":[],
+	"GeoIpServer":"http://ip-api.com/json/",
+	"GeoIpServerJsonKey":"countryCode"
 }

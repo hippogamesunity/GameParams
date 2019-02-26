@@ -13,7 +13,7 @@
 	"UnityAdsSettings":{"Id":"109734","Default":"1629705","SwitchRatio":0.00},
 	"AssistantSupportedLanguages":["English","Russian"],
 	"Announcements":[],
-	"SplitTests":["KeyPriceTest"],
+	"SplitTests":[],
 	"GeoIpServer":"http://ip-api.com/json/",
-	"GeoIpServerJsonKey":"countryCode",
+	"GeoIpServerJsonKey":"countryCode"
 }
