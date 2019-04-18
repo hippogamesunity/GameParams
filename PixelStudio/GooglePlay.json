@@ -1,4 +1,4 @@
 {
-	"LastMajorVersion":"1.13",
-	"UpdateNotes":["color code bug fixed", "gesture controls bug fixed", "canvas size input bug fixed", "aspect ratio lock button added"]
+	"LastMajorVersion":"1.16",
+	"UpdateNotes":["popup bug fixed", "moving frames bug fixed", "saving animation to MP4 (beta)"]
 }
