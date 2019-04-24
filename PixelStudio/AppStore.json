@@ -1,4 +1,4 @@
 {
-	"LastMajorVersion":"1.12",
-	"UpdateNotes":[]
+	"LastMajorVersion":"1.18",
+	"UpdateNotes":["symmetry drawing (Layer menu)", "loading progress bar (for large projects)", "Fill tool optimized"]
 }
