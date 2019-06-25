@@ -1,6 +1,6 @@
 {
-	"LastMajorVersion":"1.25",
-	"UpdateNotes":["animation slider (Settings)","max image size increased (from 20 Mb to 64 Mb)","move & zoom joysticks size increased","Punjabi translation by Rajat Kumar","selection toolbar fixed"],
+	"LastMajorVersion":"1.27",
+	"UpdateNotes":["custom tools (3rd row)","hotfix (selection, settings)"],
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
