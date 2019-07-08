@@ -1,6 +1,14 @@
 {
 	"LastMajorVersion":"1.27",
-	"UpdateNotes":["custom tools (3rd row)","hotfix (selection, settings)"],
+	"UpdateNotes":
+	[
+		"custom tools (3rd row)",
+		"hotfix (selection, settings)"
+	],
+	"Ads":
+	[
+		{"Url":"https://play.google.com/store/apps/details?id=com.pixelstudio.pro&referrer=utm_source%3Dappbanner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Family.png"}
+	],
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
