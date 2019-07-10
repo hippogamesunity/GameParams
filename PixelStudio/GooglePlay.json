@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"1.27",
+	"LastMajorVersion":"1.33",
 	"UpdateNotes":
 	[
-		"custom tools (3rd row)",
-		"hotfix (selection, settings)"
+		"pixel contest ready",
+		"frame/layer move buttons added",
+		"minor improvements",
+		"minor bugs fixed"
 	],
 	"Ads":
 	[
