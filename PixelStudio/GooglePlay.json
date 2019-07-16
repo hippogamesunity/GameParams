@@ -11,7 +11,8 @@
 	[
 		{"Url":"https://play.google.com/store/apps/details?id=com.pixelstudio.pro&referrer=utm_source%3Dapp_banner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Family.png"},
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
-		{"Url":"https://www.microsoft.com/store/apps/9p7xs7vh1r3j","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MicrosoftStore.png"}
+		{"Url":"https://www.microsoft.com/store/apps/9p7xs7vh1r3j","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MicrosoftStore.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1151197088048386050","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MedievalContest.png"}
 	],
 	"Tutorials":
 	[

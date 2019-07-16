@@ -1,6 +1,16 @@
 {
-	"LastMajorVersion":"1.27",
-	"UpdateNotes":["custom tools (3rd row)","hotfix (selection, settings)"],
+	"LastMajorVersion":"1.33",
+	"UpdateNotes":
+	[
+		"pixel contest ready",
+		"frame/layer move buttons added",
+		"minor improvements",
+		"minor bugs fixed"
+	],
+	"Ads":
+	[
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1151197088048386050","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MedievalContest.png"}
+	],
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
