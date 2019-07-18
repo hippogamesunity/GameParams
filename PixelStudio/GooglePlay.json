@@ -1,11 +1,10 @@
 {
-	"LastMajorVersion":"1.33",
+	"LastMajorVersion":"1.38",
 	"UpdateNotes":
 	[
-		"pixel contest ready",
-		"frame/layer move buttons added",
-		"minor improvements",
-		"minor bugs fixed"
+		"pixel contest started!",
+		"text tool added",
+		"minor improvements"
 	],
 	"Ads":
 	[
