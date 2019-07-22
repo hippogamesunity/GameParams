@@ -16,7 +16,7 @@
 	],
 	"SundaySale":false,
 	"RandomMonthlySales":3,
-	"FixedSales":[],
+	"FixedSales":["07/22/2019"],
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
