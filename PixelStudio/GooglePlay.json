@@ -6,6 +6,7 @@
 		"text tool added",
 		"minor improvements"
 	],
+	"AdIntervalMinutes":60,
 	"Ads":
 	[
 		{"Url":"https://play.google.com/store/apps/details?id=com.pixelstudio.pro&referrer=utm_source%3Dapp_banner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Family.png"},
@@ -13,6 +14,9 @@
 		{"Url":"https://www.microsoft.com/store/apps/9p7xs7vh1r3j","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MicrosoftStore.png"},
 		{"Url":"https://twitter.com/PixelStudioTeam/status/1152131554426204160","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MedievalContest.png"}
 	],
+	"SundaySale":false,
+	"RandomMonthlySales":3,
+	"FixedSales":[],
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
