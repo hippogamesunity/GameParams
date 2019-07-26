@@ -1,10 +1,11 @@
 {
-	"LastMajorVersion":"1.38",
+	"LastMajorVersion":"1.40",
 	"UpdateNotes":
 	[
-		"pixel contest started!",
-		"text tool added",
-		"minor improvements"
+		"customizable toolbar",
+		"dithering pen",
+		"UX improvments",
+		"minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
