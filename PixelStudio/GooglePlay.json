@@ -1,11 +1,10 @@
 {
-	"LastMajorVersion":"1.41",
+	"LastMajorVersion":"1.43",
 	"UpdateNotes":
 	[
+		"palette colors ordering",
 		"performance improved",
-		"memory consumption reduced by 40%",
-		"memory usage (Settings)",
-		"toolbar order fixed"
+		"minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
