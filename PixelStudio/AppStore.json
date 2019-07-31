@@ -1,10 +1,12 @@
 {
-	"LastMajorVersion":"1.39",
+	"LastMajorVersion":"1.43",
 	"UpdateNotes":
 	[
-		"pixel contest started!",
-		"text tool added",
-		"minor improvements"
+		"customizable toolbar",
+		"dithering pen",
+		"palette colors ordering",
+		"UX & performance improvments",
+		"memory usage (Settings)"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
