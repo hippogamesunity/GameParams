@@ -14,6 +14,8 @@
 	"SundaySale":false,
 	"RandomMonthlySales":3,
 	"FixedSales":["01/31/2019"],
+	"ResourceBundleUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/ResourceBundle.bin",
+	"ResourceBundleHash":"99A416CE295D059B61F1981D597EA8C9",
 	"Tutorials":
 	[
 		{"Name":"1-bit","Author":"MiniBoss","Level":"advanced","Url":"[TPATH]/1-bit.gif?raw=true","Download":true},
