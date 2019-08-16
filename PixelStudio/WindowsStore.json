@@ -1,11 +1,12 @@
 {
-	"LastMajorVersion":"1.33",
+	"LastMajorVersion":"1.51",
 	"UpdateNotes":
 	[
-		"pixel contest ready",
-		"frame/layer move buttons added",
-		"minor improvements",
-		"minor bugs fixed"
+		"Shape Tool",
+		"Sprite Library",
+		"Magic Wand",
+		"Color Picker pipette",
+		"daily check-in reward"
 	],
 	"Ads":
 	[

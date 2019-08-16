@@ -1,12 +1,12 @@
 {
-	"LastMajorVersion":"1.43",
+	"LastMajorVersion":"1.51",
 	"UpdateNotes":
 	[
-		"customizable toolbar",
-		"dithering pen",
-		"palette colors ordering",
-		"UX & performance improvments",
-		"memory usage (Settings)"
+		"Shape Tool",
+		"Sprite Library",
+		"Magic Wand",
+		"Color Picker pipette",
+		"daily check-in reward"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":

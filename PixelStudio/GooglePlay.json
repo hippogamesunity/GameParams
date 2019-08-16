@@ -1,10 +1,12 @@
 {
-	"LastMajorVersion":"1.43",
+	"LastMajorVersion":"1.51",
 	"UpdateNotes":
 	[
-		"palette colors ordering",
-		"performance improved",
-		"minor bugs fixed"
+		"Shape Tool",
+		"Sprite Library",
+		"Magic Wand",
+		"Color Picker pipette",
+		"daily check-in reward"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
