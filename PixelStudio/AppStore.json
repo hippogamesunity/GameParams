@@ -11,7 +11,7 @@
 	"AdIntervalMinutes":45,
 	"Ads":
 	[
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1152131554426204160","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MedievalContest.png"}
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1152131554426204160","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MedievalContest.png","Payload":1}
 	],
 	"SundaySale":false,
 	"RandomMonthlySales":3,
