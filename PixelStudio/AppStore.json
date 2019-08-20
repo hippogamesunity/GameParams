@@ -1,12 +1,8 @@
 {
-	"LastMajorVersion":"1.51",
+	"LastMajorVersion":"1.55",
 	"UpdateNotes":
 	[
-		"Shape Tool",
-		"Sprite Library",
-		"Magic Wand",
-		"Color Picker pipette",
-		"daily check-in reward"
+		"minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
