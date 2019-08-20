@@ -1,9 +1,8 @@
 {
-	"LastMajorVersion":"1.53",
+	"LastMajorVersion":"1.55",
 	"UpdateNotes":
 	[
-		"Color Picker options",
-		"minor bugs fixed"
+		"minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
