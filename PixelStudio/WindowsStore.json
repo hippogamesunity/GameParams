@@ -1,12 +1,10 @@
 {
-	"LastMajorVersion":"1.51",
+	"LastMajorVersion":"1.56",
 	"UpdateNotes":
 	[
-		"Shape Tool",
-		"Sprite Library",
-		"Magic Wand",
-		"Color Picker pipette",
-		"daily check-in reward"
+		"adaptive toolbars for landscape mode",
+		"new layer/frame next to the selected one",
+		"minor improvements and fixes"
 	],
 	"Ads":
 	[	
