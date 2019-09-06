@@ -6,7 +6,7 @@
 		"new layer/frame next to the selected one",
 		"minor improvements and fixes"
 	],
-	"AdIntervalMinutes":45,
+	"AdIntervalMinutes":60,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
