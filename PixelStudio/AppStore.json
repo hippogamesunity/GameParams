@@ -1,10 +1,8 @@
 {
-	"LastMajorVersion":"1.56",
+	"LastMajorVersion":"1.65",
 	"UpdateNotes":
 	[
-		"adaptive toolbars for landscape mode",
-		"new layer/frame next to the selected one",
-		"minor improvements and fixes"
+		"UI improvements and fixes"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
