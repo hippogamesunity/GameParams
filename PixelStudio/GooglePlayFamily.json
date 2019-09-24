@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"1.40",
+	"LastMajorVersion":"1.85",
 	"UpdateNotes":
 	[
-		"customizable toolbar",
-		"dithering pen",
-		"UX improvments",
-		"minor bugs fixed"
+		"New Gallery UI",
+		"Google Drive sync",
+		"Android 10 support",
+		"Minor fixes and improvements"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
