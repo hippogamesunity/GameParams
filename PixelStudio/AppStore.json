@@ -6,7 +6,10 @@
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
-	[],
+	"Ads":
+	[
+		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"}
+	],
 	"SundaySale":false,
 	"RandomMonthlySales":4,
 	"FixedSales":["01/31/2019","09/07/2019"],
