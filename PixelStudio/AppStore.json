@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"1.65",
+	"LastMajorVersion":"1.78",
 	"UpdateNotes":
 	[
-		"UI improvements and fixes"
+		"Google Drive sync",
+		"minor improvements and fixes"
 	],
 	"AdIntervalMinutes":60,
-	"Ads":
 	"Ads":
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"}

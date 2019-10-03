@@ -1,9 +1,8 @@
 {
-	"LastMajorVersion":"1.56",
+	"LastMajorVersion":"1.87",
 	"UpdateNotes":
 	[
-		"adaptive toolbars for landscape mode",
-		"new layer/frame next to the selected one",
+		"Google Drive sync",
 		"minor improvements and fixes"
 	],
 	"Ads":
