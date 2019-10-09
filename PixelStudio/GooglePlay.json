@@ -12,7 +12,8 @@
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
 		{"Url":"https://www.microsoft.com/store/apps/9p7xs7vh1r3j","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MicrosoftStore.png"},
-		{"Url":"https://play.google.com/store/apps/details?id=com.pixelstudio.pro&referrer=utm_source%3Dapp_banner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Family.png"}
+		{"Url":"https://play.google.com/store/apps/details?id=com.pixelstudio.pro&referrer=utm_source%3Dapp_banner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Family.png"},
+		{"Url":"https://www.reddit.com/r/PixelArt/comments/dcdqac/pixel_art_contest_5_horror_submit_your_entry_by/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestHorror.png"}
 	],
 	"SundaySale":false,
 	"RandomMonthlySales":4,
