@@ -1,10 +1,9 @@
 {
-	"LastMajorVersion":"1.85",
+	"LastMajorVersion":"1.90",
 	"UpdateNotes":
 	[
-		"New Gallery UI",
-		"Google Drive sync",
-		"Android 10 support",
+		"Universal Dithering Pen",
+		"Improved Dot Pen",
 		"Minor fixes and improvements"
 	],
 	"AdIntervalMinutes":60,
