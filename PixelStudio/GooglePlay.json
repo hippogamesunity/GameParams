@@ -1,10 +1,10 @@
 {
-	"LastMajorVersion":"1.90",
+	"LastMajorVersion":"1.95",
 	"UpdateNotes":
 	[
-		"Universal Dithering Pen",
-		"Improved Dot Pen",
-		"Minor fixes and improvements"
+		"Performance improvements",
+		"PRO reset bug fixed",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
