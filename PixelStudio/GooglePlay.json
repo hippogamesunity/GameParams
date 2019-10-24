@@ -1,10 +1,10 @@
 {
-	"LastMajorVersion":"1.95",
+	"LastMajorVersion":"1.97",
 	"UpdateNotes":
 	[
-		"Performance improvements",
-		"PRO reset bug fixed",
-		"Minor bugs fixed"
+		"Profile sync with Google Drive",
+		"Opening files from system Gallery (HDD) bug fixed",
+		"Gestures bug fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

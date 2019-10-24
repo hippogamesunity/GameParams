@@ -1,11 +1,10 @@
 {
-	"LastMajorVersion":"1.85",
+	"LastMajorVersion":"1.97",
 	"UpdateNotes":
 	[
-		"New Gallery UI",
-		"Google Drive sync",
-		"Android 10 support",
-		"Minor fixes and improvements"
+		"Profile sync with Google Drive",
+		"Opening files from system Gallery (HDD) bug fixed",
+		"Gestures bug fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
