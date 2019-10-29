@@ -7,8 +7,7 @@
 	],
 	"Ads":
 	[
-		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
-		{"Url":"https://www.reddit.com/r/PixelArt/comments/dcdqac/pixel_art_contest_5_horror_submit_your_entry_by/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestHorror.png"}
+		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"}
 	],
 	"ResourceBundleUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/ResourceBundle.bin",
 	"ResourceBundleHash":"99A416CE295D059B61F1981D597EA8C9",
