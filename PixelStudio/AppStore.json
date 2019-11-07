@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"1.78",
+	"LastMajorVersion":"1.98",
 	"UpdateNotes":
 	[
-		"Google Drive sync",
-		"minor improvements and fixes"
+		"Universal Dithering Pen",
+		"Super-smooth Dot Pen",
+		"Tool options",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
