@@ -1,10 +1,13 @@
 {
-	"LastMajorVersion":"1.97",
+	"LastMajorVersion":"2.06",
 	"UpdateNotes":
 	[
-		"Profile sync with Google Drive",
-		"Opening files from system Gallery (HDD) bug fixed",
-		"Gestures bug fixed"
+		"Resizing of selected image rect",
+		"Assistant (only English language)",
+		"Hotkeys (Settings)",
+		"New energy saving features",
+		"New FPS monitor",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
