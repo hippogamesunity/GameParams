@@ -1,13 +1,11 @@
 {
-	"LastMajorVersion":"2.06",
+	"LastMajorVersion":"2.11",
 	"UpdateNotes":
 	[
-		"Resizing of selected image rect",
-		"Assistant (only English language)",
-		"Hotkeys (Settings)",
-		"New energy saving features",
-		"New FPS monitor",
-		"Minor improvements and bug fixes"
+		"Multiselect for Magic Wand",
+		"Toolbar order optimized",
+		"Tile mode bug fixed",
+		"Blending transfluent colors bug fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
