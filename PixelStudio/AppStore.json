@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"1.98",
+	"LastMajorVersion":"2.14",
 	"UpdateNotes":
 	[
-		"Universal Dithering Pen",
-		"Super-smooth Dot Pen",
-		"Tool options",
-		"Minor bugs fixed"
+		"Multiselect for Magic Wand",
+		"Toolbar order optimized",
+		"Tile mode bug fixed",
+		"Blending transfluent colors bug fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
