@@ -12,7 +12,7 @@
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
 		{"Url":"https://www.microsoft.com/store/apps/9p7xs7vh1r3j","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/MicrosoftStore.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1201145701750755328","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestChibiResults.png"}
+		{"Url":"https://www.reddit.com/r/PixelArt/comments/e56fn7/pixel_art_contest_7_winter_submit_your_entries/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestWinter.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,

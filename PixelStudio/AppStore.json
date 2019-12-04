@@ -8,7 +8,7 @@
 	"Ads":
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1201145701750755328","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestChibiResults.png"}
+		{"Url":"https://www.reddit.com/r/PixelArt/comments/e56fn7/pixel_art_contest_7_winter_submit_your_entries/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestWinter.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
