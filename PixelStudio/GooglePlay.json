@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"2.16",
+	"LastMajorVersion":"2.20",
 	"UpdateNotes":
 	[
-		"Multiselect for Magic Wand",
-		"Toolbar order optimized",
-		"Tile mode bug fixed",
-		"Blending transfluent colors bug fixed"
+		"Blending colors bug fixed",
+		"Circle shape fixed",
+		"Sprite sheet import fixed",
+		"x86 devices support (Intel CPU)"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
