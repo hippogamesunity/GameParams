@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"1.97",
+	"LastMajorVersion":"2.20",
 	"UpdateNotes":
 	[
-		"Universal Dithering Pen",
-		"Super-smooth Dot Pen"
+		"Blending colors bug fixed",
+		"Circle shape fixed",
+		"Sprite sheet import fixed",
+		"x86 devices support (Intel CPU)"
 	],
 	"Ads":
 	[

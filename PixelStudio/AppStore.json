@@ -1,8 +1,11 @@
 {
-	"LastMajorVersion":"2.17",
+	"LastMajorVersion":"2.20",
 	"UpdateNotes":
 	[
-		"Missed Settings button fixed"
+		"Blending colors bug fixed",
+		"Circle shape fixed",
+		"Sprite sheet import fixed",
+		"x86 devices support (Intel CPU)"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
