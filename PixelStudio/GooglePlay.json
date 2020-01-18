@@ -1,11 +1,10 @@
 {
-	"LastMajorVersion":"2.20",
+	"LastMajorVersion":"2.32",
 	"UpdateNotes":
 	[
-		"Blending colors bug fixed",
-		"Circle shape fixed",
-		"Sprite sheet import fixed",
-		"x86 devices support (Intel CPU)"
+		"Pixel Art Network (Beta)",
+		"Optimization",
+		"Minor bug fixes"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
