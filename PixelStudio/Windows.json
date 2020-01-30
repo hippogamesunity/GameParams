@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"2.20",
+	"LastMajorVersion":"2.40",
 	"UpdateNotes":
 	[
-		"Blending colors bug fixed",
-		"Circle shape fixed",
-		"Sprite sheet import fixed",
-		"x86 devices support (Intel CPU)"
+		"Stable build with Pixel Network",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

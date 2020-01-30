@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"2.16",
+	"LastMajorVersion":"2.39",
 	"UpdateNotes":
 	[
-		"Multiselect for Magic Wand",
-		"Toolbar order optimized",
-		"Tile mode bug fixed",
-		"Blending transfluent colors bug fixed"
+		"Stable build with Pixel Network",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
