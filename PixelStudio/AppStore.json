@@ -8,7 +8,8 @@
 	"AdIntervalMinutes":60,
 	"Ads":
 	[
-		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"}
+		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1224060871611240449","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestEmojiResults.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
