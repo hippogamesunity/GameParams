@@ -9,7 +9,7 @@
 	"Ads":
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1224060871611240449","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/ContestEmojiResults.png"}
+		{"Url":"https://itunes.apple.com/app/id1498594530","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/DressUpHeroes.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
