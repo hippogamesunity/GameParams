@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"2.40",
+	"LastMajorVersion":"2.51",
 	"UpdateNotes":
 	[
-		"Stable build with Pixel Network",
-		"Minor bugs fixed"
+		"Tap&Hold to pick a color",
+		"256-color palettes",
+		"Precise selection movement with keyboard arrows (PC)",
+		"Critical bug fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
