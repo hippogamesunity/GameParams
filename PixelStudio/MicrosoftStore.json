@@ -1,0 +1,14 @@
+{
+	"LastMajorVersion":"2.40",
+	"UpdateNotes":
+	[
+		"Stable build with Pixel Network",
+		"Minor bugs fixed"
+	],
+	"AdIntervalMinutes":60,
+	"Ads":
+	[],
+	"SundaySale":true,
+	"RandomMonthlySales":0,
+	"FixedSales":["12/25/2019","01/01/2020"]
+}
