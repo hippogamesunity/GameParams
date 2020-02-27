@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"2.51",
+	"LastMajorVersion":"2.52",
 	"UpdateNotes":
 	[
-		"Tap&Hold to pick a color",
-		"256-color palettes",
-		"Precise selection movement with keyboard arrows (PC)",
-		"Critical bug fixed"
+		"Long press to pick a color was added to Settings",
+		"Color toolbar bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
