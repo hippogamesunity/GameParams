@@ -9,8 +9,7 @@
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
-		{"Url":"https://play.google.com/store/apps/details?id=com.PixelStudio&referrer=utm_source%3Dwindows%26utm_medium%3Dbanner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/GooglePlay.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1233022078787424257","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Speedpaint.png"}
+		{"Url":"https://play.google.com/store/apps/details?id=com.PixelStudio&referrer=utm_source%3Dwindows%26utm_medium%3Dbanner","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/GooglePlay.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
