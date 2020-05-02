@@ -8,7 +8,8 @@
 	],
 	"Ads":
 	[
-		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"}
+		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1256578190962810880","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/MayMadness.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
