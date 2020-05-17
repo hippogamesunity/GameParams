@@ -1,9 +1,12 @@
 {
-	"LastMajorVersion":"2.52",
+	"LastMajorVersion":"2.59",
 	"UpdateNotes":
 	[
-		"Long press to pick a color was added to Settings",
-		"Color toolbar bugs fixed"
+		"Color Adjustment (Fx menu)",
+		"Pixel Network notifications",
+		"BMP format support",
+		"Vietnamese translation",
+		"Bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
