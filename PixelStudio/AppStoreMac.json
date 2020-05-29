@@ -1,10 +1,12 @@
 {
-	"LastMajorVersion":"2.20",
+	"LastMajorVersion":"2.60",
 	"UpdateNotes":
 	[
-		"Blending colors bug fixed",
-		"Circle shape fixed",
-		"Sprite sheet import fixed"
+		"Color Adjustment (Fx menu)",
+		"Pixel Network notifications",
+		"BMP format support",
+		"Vietnamese translation",
+		"Bugs fixed"
 	],
 	"Ads":
 	[
