@@ -12,8 +12,7 @@
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
-		{"Url":"https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Steam.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1256578190962810880","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/MayMadness.png"}
+		{"Url":"https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Steam.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
