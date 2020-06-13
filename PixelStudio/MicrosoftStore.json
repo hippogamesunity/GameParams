@@ -1,11 +1,14 @@
 {
-	"LastMajorVersion":"2.65",
+	"LastMajorVersion":"2.68",
 	"UpdateNotes":
 	[
-		"Color Adjustment (Fx menu)",
-		"Pixel Network notifications",
-		"BMP format support",
-		"Vietnamese translation",
+		"New tool settings",
+		"Pixel Perfect line draw (Pen settings)",
+		"Rendering outside safe area (Settings)",
+		"Removing comments by art owners in Pixel Network",
+		"You can now link your YouTube channel to Pixel Network",
+		"'Open With' feature support added"
+		"Tips added",
 		"Bugs fixed"
 	],
 	"AdIntervalMinutes":60,
