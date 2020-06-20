@@ -1,21 +1,15 @@
 {
-	"LastMajorVersion":"2.68",
+	"LastMajorVersion":"2.74",
 	"UpdateNotes":
 	[
-		"New tool settings",
-		"Pixel Perfect line draw (Pen settings)",
-		"Rendering outside safe area (Settings)",
-		"Removing comments by art owners in Pixel Network",
-		"You can now link your YouTube channel to Pixel Network",
-		"'Open With' feature support added",
-		"Tips added",
+		"Tabs added!",
+		"Random glitches fixed (possibly)",
+		"Hotkeys changed",
 		"Bugs fixed"
 	],
-	"AdIntervalMinutes":60,
-	"Ads":
-	[
-	],
+	"AdIntervalMinutes":45,
+	"Ads":[],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
-	"FixedSales":["12/25/2019","01/01/2020"]
+	"FixedSales":["12/25/2019","07/04/2020"]
 }

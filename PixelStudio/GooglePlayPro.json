@@ -10,5 +10,5 @@
 	[],
 	"SundaySale":false,
 	"RandomMonthlySales":3,
-	"FixedSales":["01/31/2019"]
+	"FixedSales":[]
 }
