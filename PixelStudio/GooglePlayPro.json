@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"2.39",
+	"LastMajorVersion":"2.74",
 	"UpdateNotes":
 	[
-		"Stable build with Pixel Network",
-		"Minor bugs fixed"
+		"Tabs added!",
+		"Random glitches fixed (possibly)",
+		"Hotkeys changed",
+		"Bugs fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
