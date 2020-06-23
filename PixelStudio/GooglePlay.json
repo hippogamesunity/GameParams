@@ -1,11 +1,10 @@
 {
-	"LastMajorVersion":"2.75",
+	"LastMajorVersion":"2.76",
 	"UpdateNotes":
 	[
-		"Tabs added!",
-		"Random glitches fixed (possibly)",
-		"Hotkeys changed",
-		"Bugs fixed"
+		"Animation window improved (fast frame select)",
+		"Spritesheet export improved (column count, spacing)",
+		"Aseprite format support (.ase, .aseprite)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
