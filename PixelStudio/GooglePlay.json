@@ -1,10 +1,10 @@
 {
-	"LastMajorVersion":"2.76",
+	"LastMajorVersion":"2.82",
 	"UpdateNotes":
 	[
-		"Animation window improved (fast frame select)",
-		"Spritesheet export improved (column count, spacing)",
-		"Aseprite format support (.ase, .aseprite)"
+		"New project template for fonts",
+		"Importing fonts from PSP",
+		"Bugs fixed"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
