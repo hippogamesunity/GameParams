@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"2.60",
+	"LastMajorVersion":"2.81",
 	"UpdateNotes":
 	[
-		"Color Adjustment (Fx menu)",
-		"Pixel Network notifications",
-		"BMP format support",
-		"Vietnamese translation",
+		"Tabs added!",
+		"Aseprite format support (.ase, .aseprite)",
+		"New project template for fonts",
+		"Importing fonts from PSP",
 		"Bugs fixed"
 	],
 	"Ads":
