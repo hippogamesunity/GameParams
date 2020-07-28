@@ -1,10 +1,12 @@
 {
-	"LastMajorVersion":"2.82",
+	"LastMajorVersion":"2.92",
 	"UpdateNotes":
 	[
-		"New project template for fonts",
-		"Importing fonts from PSP",
-		"Bugs fixed"
+		"New toolbar layout",
+		"True landscape mode",
+		"Pixel Select tool added (Toolbar)",
+		"Tabs, Settings, FPS buttons added (Toolbar)",
+		"Saving/loading palettes with projects (Settings/User)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":

@@ -1,12 +1,12 @@
 {
-	"LastMajorVersion":"2.82",
+	"LastMajorVersion":"2.93",
 	"UpdateNotes":
 	[
-		"Tabs added!",
-		"Aseprite format support (.ase, .aseprite)",
-		"New project template for fonts",
-		"Importing fonts from PSP",
-		"Improvements and bug fixes"
+		"New toolbar layout",
+		"True landscape mode",
+		"Pixel Select tool added (Toolbar)",
+		"Tabs, Settings, FPS buttons added (Toolbar)",
+		"Saving/loading palettes with projects (Settings/User)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
