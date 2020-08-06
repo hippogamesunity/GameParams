@@ -1,12 +1,10 @@
 {
-	"LastMajorVersion":"2.92",
+	"LastMajorVersion":"2.99",
 	"UpdateNotes":
 	[
-		"New toolbar layout",
-		"True landscape mode",
-		"Pixel Select tool added (Toolbar)",
-		"Tabs, Settings, FPS buttons added (Toolbar)",
-		"Saving/loading palettes with projects (Settings/User)"
+		"Sign in to Pixel Network with Play Games!",
+		"Move Layer/Frame arrows removed",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
