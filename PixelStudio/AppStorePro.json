@@ -1,14 +1,10 @@
 {
-	"LastMajorVersion":"2.69",
+	"LastMajorVersion":"2.99",
 	"UpdateNotes":
 	[
-		"New tool settings",
-		"Pixel Perfect line draw (Pen settings)",
-		"Rendering outside safe area (Settings)",
-		"Removing comments by art owners in Pixel Network",
-		"You can now link your YouTube channel to Pixel Network",
-		"Tips added",
-		"Bugs fixed"
+		"Sign in to Pixel Network with Apple!",
+		"Move Layer/Frame arrows removed",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
