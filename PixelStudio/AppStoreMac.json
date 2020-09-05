@@ -1,13 +1,15 @@
 {
-	"LastMajorVersion":"2.93",
+	"LastMajorVersion":"3.06",
 	"UpdateNotes":
 	[
-		"New toolbar layout",
-		"True landscape mode",
-		"Pixel Select tool added (Toolbar)",
-		"Tabs, Settings, FPS buttons added (Toolbar)",
-		"Saving/loading palettes with projects (Settings/User)"
+		"Animation clips added (Animation window)",
+		"Copy/Paste for layers and frames (Layer/Animation window)",
+		"New Layer-driven project template",
+		"Deep copy (Fx window)",
+		"New fonts added",
+		"Minor improvements and bug fixes"
 	],
+	"AdIntervalMinutes":60,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},

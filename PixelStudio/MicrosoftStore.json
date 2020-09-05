@@ -1,12 +1,13 @@
 {
-	"LastMajorVersion":"2.92",
+	"LastMajorVersion":"3.05",
 	"UpdateNotes":
 	[
-		"New toolbar layout",
-		"True landscape mode",
-		"Pixel Select tool added (Toolbar)",
-		"Tabs, Settings, FPS buttons added (Toolbar)",
-		"Saving/loading palettes with projects (Settings/User)"
+		"Animation clips added (Animation window)",
+		"Copy/Paste for layers and frames (Layer/Animation window)",
+		"New Layer-driven project template",
+		"Deep copy (Fx window)",
+		"New fonts added",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":

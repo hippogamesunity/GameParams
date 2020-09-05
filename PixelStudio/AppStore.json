@@ -1,10 +1,13 @@
 {
-	"LastMajorVersion":"2.99",
+	"LastMajorVersion":"3.07",
 	"UpdateNotes":
 	[
-		"Sign in to Pixel Network with Apple!",
-		"Move Layer/Frame arrows removed",
-		"Minor bugs fixed"
+		"Animation clips added (Animation window)",
+		"Copy/Paste for layers and frames (Layer/Animation window)",
+		"New Layer-driven project template",
+		"Deep copy (Fx window)",
+		"New fonts added",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
