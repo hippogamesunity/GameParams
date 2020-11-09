@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"2.74",
+	"LastMajorVersion":"3.13",
 	"UpdateNotes":
 	[
-		"Tabs added!",
-		"Random glitches fixed (possibly)",
-		"Hotkeys changed",
-		"Bugs fixed"
+		"Hiding unused tools (Settings)",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

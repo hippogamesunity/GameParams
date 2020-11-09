@@ -1,12 +1,8 @@
 {
-	"LastMajorVersion":"3.06",
+	"LastMajorVersion":"3.13",
 	"UpdateNotes":
 	[
-		"Animation clips added (Animation window)",
-		"Copy/Paste for layers and frames (Layer/Animation window)",
-		"New Layer-driven project template",
-		"Deep copy (Fx window)",
-		"New fonts added",
+		"Hiding unused tools (Settings)",
 		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
