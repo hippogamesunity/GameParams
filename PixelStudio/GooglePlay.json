@@ -1,9 +1,9 @@
 {
-	"LastMajorVersion":"3.13",
+	"LastMajorVersion":"3.15",
 	"UpdateNotes":
 	[
-		"Hiding unused tools (Settings)",
-		"Minor improvements and bug fixes"
+		"File export options (Storage/Photo/Files)",
+		"2-finger zoom fixed (when using S-Pen/Apple Pencil)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
