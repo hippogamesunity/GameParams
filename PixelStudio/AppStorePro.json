@@ -1,13 +1,9 @@
 {
-	"LastMajorVersion":"3.06",
+	"LastMajorVersion":"3.16",
 	"UpdateNotes":
 	[
-		"Animation clips added (Animation window)",
-		"Copy/Paste for layers and frames (Layer/Animation window)",
-		"New Layer-driven project template",
-		"Deep copy (Fx window)",
-		"New fonts added",
-		"Minor improvements and bug fixes"
+		"File export options (Storage/Photo/Files)",
+		"2-finger zoom fixed (when using S-Pen/Apple Pencil)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":

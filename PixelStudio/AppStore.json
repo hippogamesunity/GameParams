@@ -1,10 +1,9 @@
 {
-	"LastMajorVersion":"3.14",
+	"LastMajorVersion":"3.16",
 	"UpdateNotes":
 	[
-		"Hiding unused tools (Settings)",
-		"Minor improvements and bug fixes",
-		"Working directory fixed (if your files disappeared with 3.13 update)"
+		"File export options (Storage/Photo/Files)",
+		"2-finger zoom fixed (when using S-Pen/Apple Pencil)"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
