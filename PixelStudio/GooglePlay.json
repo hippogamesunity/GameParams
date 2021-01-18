@@ -1,9 +1,13 @@
 {
-	"LastMajorVersion":"3.15",
+	"LastMajorVersion":"3.23",
 	"UpdateNotes":
 	[
-		"File export options (Storage/Photo/Files)",
-		"2-finger zoom fixed (when using S-Pen/Apple Pencil)"
+		"New smooth workspace 2.0",
+		"New 'Overlay Menu', you can move it now!",
+		"'Pure View' and 'Tap to Stretch' features",
+		"Free MP4 export (4h timeout)",
+		"Save options for selected area",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
@@ -15,5 +19,5 @@
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
-	"FixedSales":["12/25/2020","12/31/2020","1/1/2021"]
+	"FixedSales":["12/25/2021","12/31/2021","1/1/2022"]
 }

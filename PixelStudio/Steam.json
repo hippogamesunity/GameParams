@@ -1,8 +1,12 @@
 {
-	"LastMajorVersion":"3.13",
+	"LastMajorVersion":"3.23",
 	"UpdateNotes":
 	[
-		"Hiding unused tools (Settings)",
+		"New smooth workspace 2.0",
+		"New 'Overlay Menu', you can move it now!",
+		"'Pure View' and 'Tap to Stretch' features",
+		"Free MP4 export (4h timeout)",
+		"Save options for selected area",
 		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":60,
