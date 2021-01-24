@@ -12,7 +12,7 @@
 		{"Url":"https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Steam.png"},
 		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
 		{"Url":"https://play.google.com/store/apps/details?id=com.kindaheroes","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1353331792540004353","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Valentine"}
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1353331792540004353","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Valentine.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
