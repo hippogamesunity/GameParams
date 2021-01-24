@@ -1,18 +1,15 @@
 {
-	"LastMajorVersion":"3.22",
+	"LastMajorVersion":"3.25",
 	"UpdateNotes":
 	[
-		"New smooth workspace 2.0",
-		"New 'Overlay Menu', you can move it now!",
-		"'Pure View' and 'Tap to Stretch' features",
-		"Free MP4 export (4h timeout)",
-		"Save options for selected area",
-		"Minor improvements and bug fixes"
+		"New Pixel Network UI",
+		"Selection tool fixed"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
 	[
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"}
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1353331792540004353","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Valentine"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
