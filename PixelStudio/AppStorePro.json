@@ -1,9 +1,12 @@
 {
-	"LastMajorVersion":"3.16",
+	"LastMajorVersion":"3.36",
 	"UpdateNotes":
 	[
-		"File export options (Storage/Photo/Files)",
-		"2-finger zoom fixed (when using S-Pen/Apple Pencil)"
+		"New Palettes window & new palettes",
+		"New Pixel Network UI",
+		"You can submit palettes to Pixel Network now!",
+		"Color management improved",
+		"Isometric grid"
 	],
 	"AdIntervalMinutes":45,
 	"Ads":
