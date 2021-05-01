@@ -8,7 +8,8 @@
 	"AdIntervalMinutes":45,
 	"Ads":
 	[
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"}
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1388447212812873728","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/MayMadness2021.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
