@@ -8,7 +8,7 @@
 		"Color management improved",
 		"Isometric grid"
 	],
-	"AdIntervalMinutes":45,
+	"AdIntervalMinutes":30,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
