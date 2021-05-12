@@ -1,12 +1,11 @@
 {
-	"LastMajorVersion":"3.40",
+	"LastMajorVersion":"3.45",
 	"UpdateNotes":
 	[
-		"New Palettes window & new palettes",
-		"New Pixel Network UI",
-		"You can submit palettes to Pixel Network now!",
-		"Color management improved",
-		"Isometric grid"
+		"View/Share counters added to Pixel Network",
+		"Lospec error on Android 11 fixed",
+		"Unified animation workflow (Settigns/User/Advanced)",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":30,
 	"Ads":
