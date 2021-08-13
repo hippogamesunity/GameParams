@@ -1,12 +1,13 @@
 {
-	"LastMajorVersion":"3.35",
+	"LastMajorVersion":"3.48",
 	"UpdateNotes":
 	[
-		"New Palettes window & new palettes",
-		"New Pixel Network UI",
-		"You can submit palettes to Pixel Network now!",
-		"Color management improved",
-		"Isometric grid"
+		"Lasso tool added",
+		"New purchase: Disable Ads",
+		"Disable option for image blur warning (Advanced Settings)",
+		"Weather notifications (Advanced Settings)",
+		"History revert bug fixed",
+		"Pen draw optimized"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

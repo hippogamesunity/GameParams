@@ -1,14 +1,15 @@
 {
-	"LastMajorVersion":"3.36",
+	"LastMajorVersion":"3.48",
 	"UpdateNotes":
 	[
-		"New Palettes window & new palettes",
-		"New Pixel Network UI",
-		"You can submit palettes to Pixel Network now!",
-		"Color management improved",
-		"Isometric grid"
+		"Lasso tool added",
+		"New purchase: Disable Ads",
+		"Disable option for image blur warning (Advanced Settings)",
+		"Weather notifications (Advanced Settings)",
+		"History revert bug fixed",
+		"Pen draw optimized"
 	],
-	"AdIntervalMinutes":45,
+	"AdIntervalMinutes":60,
 	"Ads":
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},		
