@@ -9,7 +9,8 @@
 	"Ads":
 	[
 		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
-		{"Url":"https://www.microsoft.com/en-us/p/kinda-heroes-side-view-scroll-rpg-rescue-the-princess/9p0t94r6pq08","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"}
+		{"Url":"https://www.microsoft.com/en-us/p/kinda-heroes-side-view-scroll-rpg-rescue-the-princess/9p0t94r6pq08","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1427224508746944514","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/GamePartnership.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
