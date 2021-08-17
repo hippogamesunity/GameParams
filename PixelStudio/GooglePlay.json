@@ -1,15 +1,11 @@
 {
-	"LastMajorVersion":"3.48",
+	"LastMajorVersion":"3.49",
 	"UpdateNotes":
 	[
-		"Lasso tool added",
-		"New purchase: Disable Ads",
-		"Disable option for image blur warning (Advanced Settings)",
-		"Weather notifications (Advanced Settings)",
-		"History revert bug fixed",
-		"Pen draw optimized"
+		"Paste action popup fixed",
+		"Pixel Network avatars fixed"
 	],
-	"AdIntervalMinutes":20,
+	"AdIntervalMinutes":15,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
