@@ -1,9 +1,12 @@
 {
-	"LastMajorVersion":"3.13",
+	"LastMajorVersion":"3.40",
 	"UpdateNotes":
 	[
-		"Hiding unused tools (Settings)",
-		"Minor improvements and bug fixes"
+		"New Palettes window & new palettes",
+		"New Pixel Network UI",
+		"You can submit palettes to Pixel Network now!",
+		"Color management improved",
+		"Isometric grid"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

@@ -1,9 +1,10 @@
 {
-	"LastMajorVersion":"3.49",
+	"LastMajorVersion":"3.50",
 	"UpdateNotes":
 	[
-		"Paste action popup fixed",
-		"Pixel Network avatars fixed"
+		"Tabs UI improved",
+		"Tap layer name to rename",
+		"Magic Wand deadlock fixed"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
