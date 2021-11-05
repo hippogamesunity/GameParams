@@ -1,0 +1,19 @@
+{
+	"LastMajorVersion":"3.61",
+	"UpdateNotes":
+	[
+		"You can now add music in Animation Manager",
+		"You can now upload animations with music to Pixel Network",
+		"Saving to MP4 also supports audio now",
+		"Rearranging tabs",
+		"Uploading active projects to Pixel Network with 'Save' options",
+		"Critical bugs and app crashes fixed",
+		"PSP format optimized (you can't open new PSP files with older app versions, please update)"
+	],
+	"AdIntervalMinutes":60,
+	"Ads":
+	[],
+	"SundaySale":false,
+	"RandomMonthlySales":0,
+	"FixedSales":[]
+}
