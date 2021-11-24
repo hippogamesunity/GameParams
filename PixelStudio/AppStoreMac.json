@@ -12,8 +12,7 @@
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
-		{"Url":"https://twitter.com/brunopixels/status/1441772783436972033","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Octobit2021.png"}
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
