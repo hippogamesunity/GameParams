@@ -1,14 +1,10 @@
 {
-	"LastMajorVersion":"3.69",
+	"LastMajorVersion":"3.75",
 	"UpdateNotes":
 	[
-		"Extended active pen support",
-		"New options for selection",
-		"Double tap to undo (Settings)",
-		"Fast Google Drive sync",
-		"Delay for music added",
-		"Performance improved",
-		"Bugs fixed"
+		"Max palette size increased to 32 for the free version",
+		"BEST OF THE WEEK (Pixel Network)",
+		"Minor bug fixes"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
