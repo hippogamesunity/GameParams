@@ -1,10 +1,13 @@
 {
-	"LastMajorVersion":"3.75",
+	"LastMajorVersion":"3.91",
 	"UpdateNotes":
 	[
-		"Max palette size increased to 32 for the free version",
-		"BEST OF THE WEEK (Pixel Network)",
-		"Minor bug fixes"
+		"Pixel scaler in Functions (Scale2x/AdvMAME2x, Scale3x/AdvMAME3x)",
+		"jpg, tga full support (open/save)",
+		"psd full support (cloud open/save, layers supported",
+		"ai, eps, exr, heic, pdf, svg, webp support (cloud open only)",
+		"Reference features improved",
+		"Minor optimizations & fixes"
 	],
 	"AdIntervalMinutes":12,
 	"Ads":
