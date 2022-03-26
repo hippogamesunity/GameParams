@@ -17,5 +17,15 @@
 	"SundaySale":true,
 	"RandomMonthlySales":0,
 	"FixedSales":["07/04/2021","11/11/2021","12/25/2021","01/01/2022"],
-	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"]
+	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"],
+	"IgnoreErrorsByMessage":
+	[
+		"EGL_BAD_NATIVE_WINDOW",
+		"Firebase",
+		"FCM"
+	],
+	"IgnoreErrorsByStackTrace":
+	[
+		"SetDrawRangeToContainCaretPosition"
+	]
 }

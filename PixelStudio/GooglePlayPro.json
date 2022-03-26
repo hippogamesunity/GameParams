@@ -14,5 +14,15 @@
 	[],
 	"SundaySale":false,
 	"RandomMonthlySales":0,
-	"FixedSales":[]
+	"FixedSales":[],
+	"IgnoreErrorsByMessage":
+	[
+		"EGL_BAD_NATIVE_WINDOW",
+		"Firebase",
+		"FCM"
+	],
+	"IgnoreErrorsByStackTrace":
+	[
+		"SetDrawRangeToContainCaretPosition"
+	]
 }
