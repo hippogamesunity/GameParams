@@ -10,9 +10,9 @@
 		{"From":"04/13/2018 00:00:00","To":"04/15/2018 00:00:00"},
 		{"From":"04/23/2018 00:00:00","To":"04/25/2018 00:00:00"}
 	],
-	"TimeServer":"https://script.google.com/macros/s/AKfycby9uNSkl-CpAdtaPH3a-G3h4XvsZQcpkMOwvzx_M4VUDzjaT-ZQ/exec",
+	"TimeServer":"https://u1635644.plsk.regruhosting.ru/WebService.asmx/GetTimeUtc",
 	"TimeServerRegex":null,
-	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
+	"WebService":"https://u1635644.plsk.regruhosting.ru/WebService.asmx",
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":300,
