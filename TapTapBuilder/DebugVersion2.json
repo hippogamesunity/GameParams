@@ -2,7 +2,7 @@
 	"SaleEvents":[],
 	"TimeServer":"https://script.google.com/macros/s/AKfycbxpDRD9taKEuF6EF1rsdZ3GrPEG7rA_20jp-3lC086kgN2kR2m3/exec",
 	"TimeServerRegex":null,
-	"WebService":"https://taptapbuilder.azurewebsites.net/WebService.asmx",
+	"WebService":"https://u1635644.plsk.regruhosting.ru/WebService.asmx",
 	"WebServiceEnabled":true,
 	"SaveInterval":30,
 	"CloudSaveInterval":600,
