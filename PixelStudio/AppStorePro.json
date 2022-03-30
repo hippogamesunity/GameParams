@@ -20,7 +20,8 @@
 	[
 		"EGL_BAD_NATIVE_WINDOW",
 		"Firebase",
-		"FCM"
+		"FCM",
+		"Touch was already deallocated"
 	],
 	"IgnoreErrorsByStackTrace":
 	[
