@@ -19,7 +19,8 @@
 	[
 		"EGL_BAD_NATIVE_WINDOW",
 		"Firebase",
-		"FCM"
+		"FCM",
+		"Purchasing failed to initialize."
 	],
 	"IgnoreErrorsByStackTrace":
 	[

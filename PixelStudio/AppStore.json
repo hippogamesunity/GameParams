@@ -22,6 +22,7 @@
 		"EGL_BAD_NATIVE_WINDOW",
 		"Firebase",
 		"FCM",
+		"Purchasing failed to initialize.",
 		"Touch was already deallocated"
 	],
 	"IgnoreErrorsByStackTrace":
