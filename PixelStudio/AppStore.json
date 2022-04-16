@@ -1,10 +1,14 @@
 {
-	"LastMajorVersion":"3.75",
+	"LastMajorVersion":"3.97",
 	"UpdateNotes":
 	[
-		"Max palette size increased to 32 for the free version",
-		"BEST OF THE WEEK (Pixel Network)",
-		"Minor bug fixes"
+		"Saving layers/frames to PSD",
+		"Exporting layers via Layers menu",
+		"NeuQuant color quantization (GIF encoding and Functions)",
+		"You can now block users in Pixel Network and like comments",
+		"Images sorting on user pages in Pixel Network",
+		"Telegram links support for Pixel Network profiles",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":12,
 	"Ads":

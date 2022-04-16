@@ -1,13 +1,14 @@
 {
-	"LastMajorVersion":"3.91",
+	"LastMajorVersion":"3.97",
 	"UpdateNotes":
 	[
-		"Pixel scaler in Functions (Scale2x/AdvMAME2x, Scale3x/AdvMAME3x)",
-		"jpg, tga full support (open/save)",
-		"psd full support (cloud open/save, layers supported",
-		"ai, eps, exr, heic, pdf, svg, webp support (cloud open only)",
-		"Reference features improved",
-		"Minor optimizations & fixes"
+		"Saving layers/frames to PSD",
+		"Exporting layers via Layers menu",
+		"NeuQuant color quantization (GIF encoding and Functions)",
+		"You can now block users in Pixel Network and like comments",
+		"Images sorting on user pages in Pixel Network",
+		"Telegram links support for Pixel Network profiles",
+		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":12,
 	"Ads":
