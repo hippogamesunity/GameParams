@@ -21,7 +21,8 @@
 		"EGL_BAD_NATIVE_WINDOW",
 		"Firebase",
 		"FCM",
-		"Purchasing failed to initialize."
+		"Purchasing failed to initialize",
+		"Screen position out of view frustum"
 	],
 	"IgnoreErrorsByStackTrace":
 	[
