@@ -1,14 +1,8 @@
 {
-	"LastMajorVersion":"4.07",
+	"LastMajorVersion":"4.14",
 	"UpdateNotes":
 	[
-		"You can pick and upload profile banners (Pixel Network)",
-		"You can pick an avatar from uploaded arts (Pixel Network)",
-		"Discord links support (Pixel Network)",
-		"Extended range of allowed symbols for user names (Pixel Network)",
-		"Options added for saving from a selection",
-		"Undo/Redo shortcut (Overlay)",
-		"Overlay settings added"
+		"Stable version"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":

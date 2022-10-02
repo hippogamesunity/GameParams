@@ -1,12 +1,8 @@
 {
-	"LastMajorVersion":"3.40",
+	"LastMajorVersion":"4.15",
 	"UpdateNotes":
 	[
-		"New Palettes window & new palettes",
-		"New Pixel Network UI",
-		"You can submit palettes to Pixel Network now!",
-		"Color management improved",
-		"Isometric grid"
+		"Stable version"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
