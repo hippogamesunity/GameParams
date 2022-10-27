@@ -1,10 +1,15 @@
 {
-	"LastMajorVersion":"4.14",
+	"LastMajorVersion":"4.20",
 	"UpdateNotes":
 	[
-		"Stable version"
+		"Palette files import & export",
+		"Pixel perfect preview added",
+		"Arrows added to move layers and frames (Advanced settings)",
+		"Music speed fixed (Pixel Network)",
+		"MP4 encoding fixed",
+		"Migrated to Unity 2021"
 	],
-	"AdIntervalMinutes":60,
+	"AdIntervalMinutes":10,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
@@ -15,16 +20,6 @@
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
-	"FixedSales":["07/04/2021","11/11/2021","11/26/2021","12/25/2021","01/01/2022"],
-	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"],
-	"IgnoreErrorsByMessage":
-	[
-		"EGL_BAD_NATIVE_WINDOW",
-		"Firebase",
-		"FCM"
-	],
-	"IgnoreErrorsByStackTrace":
-	[
-		"SetDrawRangeToContainCaretPosition"
-	]
+	"FixedSales":[],
+	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"]
 }
