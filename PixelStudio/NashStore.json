@@ -1,0 +1,25 @@
+{
+	"LastMajorVersion":"4.22",
+	"UpdateNotes":
+	[
+		"Palette files import & export",
+		"Pixel perfect preview added",
+		"Arrows added to move layers and frames (Advanced settings)",
+		"Music speed fixed (Pixel Network)",
+		"MP4 encoding fixed",
+		"Migrated to Unity 2021"
+	],
+	"AdIntervalMinutes":10,
+	"Ads":
+	[
+		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
+		{"Url":"https://store.steampowered.com/app/1204050/Pixel_Studio_for_pixel_art/","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Steam.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
+		{"Url":"https://play.google.com/store/apps/details?id=com.kindaheroes","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"},
+		{"Url":"https://twitter.com/PixelStudioTeam/status/1577599910546898946","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Halloween2022.png"}
+	],
+	"SundaySale":true,
+	"RandomMonthlySales":0,
+	"FixedSales":[],
+	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"]
+}
