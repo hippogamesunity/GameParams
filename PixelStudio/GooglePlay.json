@@ -1,13 +1,12 @@
 {
-	"LastMajorVersion":"4.22",
+	"LastMajorVersion":"4.24",
 	"UpdateNotes":
 	[
-		"Palette files import & export",
-		"Pixel perfect preview added",
-		"Arrows added to move layers and frames (Advanced settings)",
-		"Music speed fixed (Pixel Network)",
-		"MP4 encoding fixed",
-		"Migrated to Unity 2021"
+		"Storage Import/Export as ZIP",
+		"Hiding built-in palettes",
+		"Deny downloads and sharing for artworks (Pixel Network)",
+		"Max size for animations is now 256x256 (Pixel Network)",
+		"Pixel Network optimization"
 	],
 	"AdIntervalMinutes":10,
 	"Ads":
