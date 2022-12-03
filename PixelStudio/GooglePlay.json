@@ -8,7 +8,7 @@
 		"Max size for animations is now 256x256 (Pixel Network)",
 		"Pixel Network optimization"
 	],
-	"AdIntervalMinutes":10,
+	"AdIntervalMinutes":15,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},

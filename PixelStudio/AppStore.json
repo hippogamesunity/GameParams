@@ -9,7 +9,7 @@
 		"Pixel Network optimization",
 		"Saving to Photos bug fixed"
 	],
-	"AdIntervalMinutes":10,
+	"AdIntervalMinutes":15,
 	"Ads":
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},		
