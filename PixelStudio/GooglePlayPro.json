@@ -1,12 +1,12 @@
 {
-	"LastMajorVersion":"4.25",
+	"LastMajorVersion":"4.32,
 	"UpdateNotes":
 	[
-		"Storage Import/Export as ZIP",
-		"Hiding built-in palettes",
-		"Deny downloads and sharing for artworks (Pixel Network)",
-		"Max size for animations is now 256x256 (Pixel Network)",
-		"Pixel Network optimization"
+		"BMP format full support",
+		"Background eraser (an option for Fill and Color Replace)",
+		"An option for Magic Wand to pick pixels on entire canvas",
+		"0-9 hotkeys to pick colors on the palette",
+		"Organizing palettes"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
