@@ -14,23 +14,10 @@
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},		
 		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
-		{"Url":"https://itunes.apple.com/app/id1542257638","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"},
-		{"Url":"https://twitter.com/PixelStudioTeam/status/1601194364553728000","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Contests/Christmas2022.png"}
+		{"Url":"https://itunes.apple.com/app/id1542257638","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/KindaHeroes.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
 	"FixedSales":["07/04/2021","11/11/2021","11/26/2021","12/25/2021","01/01/2022"],
-	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"],
-	"IgnoreErrorsByMessage":
-	[
-		"EGL_BAD_NATIVE_WINDOW",
-		"Firebase",
-		"FCM",
-		"Purchasing failed to initialize.",
-		"Touch was already deallocated"
-	],
-	"IgnoreErrorsByStackTrace":
-	[
-		"SetDrawRangeToContainCaretPosition"
-	]
+	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"]
 }

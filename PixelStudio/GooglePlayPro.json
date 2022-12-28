@@ -13,17 +13,5 @@
 	[],
 	"SundaySale":false,
 	"RandomMonthlySales":0,
-	"FixedSales":[],
-	"IgnoreErrorsByMessage":
-	[
-		"EGL_BAD_NATIVE_WINDOW",
-		"Firebase",
-		"FCM",
-		"Purchasing failed to initialize",
-		"Screen position out of view frustum"
-	],
-	"IgnoreErrorsByStackTrace":
-	[
-		"SetDrawRangeToContainCaretPosition"
-	]
+	"FixedSales":[]
 }
