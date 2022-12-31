@@ -1,13 +1,10 @@
 {
-	"LastMajorVersion":"4.24",
+	"LastMajorVersion":"4.33",
 	"UpdateNotes":
 	[
-		"Storage Import/Export as ZIP",
-		"Hiding built-in palettes",
-		"Deny downloads and sharing for artworks (Pixel Network)",
-		"Max size for animations is now 256x256 (Pixel Network)",
-		"Pixel Network optimization",
-		"Saving to Photos bug fixed"
+		"Advanced animation workflow",
+		"BMP support added",
+		"Minor improvements"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
