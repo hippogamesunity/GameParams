@@ -1,10 +1,9 @@
 {
-	"LastMajorVersion":"4.33",
+	"LastMajorVersion":"4.40",
 	"UpdateNotes":
 	[
-		"Advanced animation workflow",
-		"BMP support added",
-		"Minor improvements"
+		"Battery usage -15% in idle state",
+		"Minor bugs fixes"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
