@@ -1,9 +1,9 @@
 {
-	"LastMajorVersion":"4.40",
+	"LastMajorVersion":"4.42",
 	"UpdateNotes":
 	[
-		"Battery usage -15% in idle state",
-		"Minor bugs fixes"
+		"User palettes, brushes and sprites are now synced with Google Drive",
+		"Adding external animations fixed"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
