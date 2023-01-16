@@ -1,9 +1,8 @@
 {
-	"LastMajorVersion":"4.40",
+	"LastMajorVersion":"4.44",
 	"UpdateNotes":
 	[
-		"Battery usage -15% in idle state",
-		"Minor bugs fixes"
+		"Stable version"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":

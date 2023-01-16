@@ -1,9 +1,8 @@
 {
-	"LastMajorVersion":"4.42",
+	"LastMajorVersion":"4.44",
 	"UpdateNotes":
 	[
-		"User palettes, brushes and sprites are now synced with Google Drive",
-		"Adding external animations fixed"
+		"Stable version"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":

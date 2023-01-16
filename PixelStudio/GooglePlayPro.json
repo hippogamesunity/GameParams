@@ -1,12 +1,8 @@
 {
-	"LastMajorVersion":"4.32",
+	"LastMajorVersion":"4.44",
 	"UpdateNotes":
 	[
-		"BMP format full support",
-		"Background eraser (an option for Fill and Color Replace)",
-		"An option for Magic Wand to pick pixels on entire canvas",
-		"0-9 hotkeys to pick colors on the palette",
-		"Organizing palettes"
+		"Stable version"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":

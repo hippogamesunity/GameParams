@@ -1,10 +1,8 @@
 {
-	"LastMajorVersion":"4.33",
+	"LastMajorVersion":"4.44",
 	"UpdateNotes":
 	[
-		"Advanced animation workflow",
-		"BMP support added",
-		"Minor improvements"
+		"Stable version"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
