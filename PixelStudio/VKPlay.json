@@ -1,0 +1,15 @@
+{
+	"LastMajorVersion":"4.50",
+	"UpdateNotes":
+	[
+		"Stable version"
+	],
+	"AdIntervalMinutes":10,
+	"Ads":
+	[
+	],
+	"SundaySale":true,
+	"RandomMonthlySales":0,
+	"FixedSales":[],
+	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"]
+}
