@@ -1,8 +1,12 @@
 {
-	"LastMajorVersion":"4.48",
+	"LastMajorVersion":"4.52",
 	"UpdateNotes":
 	[
-		"Stable version"
+		"Grid tool optimized and improved",
+		"Cursor - a new tool",
+		"Toolbar settings improved",
+		"System monitor improved",
+		"You can promote in Pixel Network on update images"
 	],
 	"AdIntervalMinutes":60,
 	"Ads":
