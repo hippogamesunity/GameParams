@@ -1,14 +1,12 @@
 {
-	"LastMajorVersion":"4.52",
+	"LastMajorVersion":"4.54",
 	"UpdateNotes":
 	[
-		"Grid tool optimized and improved",
-		"Cursor - a new tool",
-		"Toolbar settings improved",
-		"System monitor improved",
-		"You can promote in Pixel Network on update images"
+		"Restricting comments in Pixel Network (on upload)",
+		"Image zoom in Pixel Network",
+		"Issues with creating new clips fixed for Advanced Template"
 	],
-	"AdIntervalMinutes":10,
+	"AdIntervalMinutes":99,
 	"Ads":
 	[
 		{"Url":"https://itunes.apple.com/app/id1404203859","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStore.png"},
