@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"4.57",
+	"LastMajorVersion":"4.61",
 	"UpdateNotes":
 	[
-		"BEST OF THE WEEK badges in Pixel Network",
-		"Line renderer improved",
-		"Text tool missed options fixed",
-		"Semitransparency support for brushes",
+		"You can rate uploads in Pixel Network now!",
+		"Sign in to Pixel Network with one-time codes",
 		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":99,
