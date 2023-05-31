@@ -1,11 +1,11 @@
 {
-	"LastMajorVersion":"4.57",
+	"LastMajorVersion":"4.64",
 	"UpdateNotes":
 	[
-		"BEST OF THE WEEK badges in Pixel Network",
-		"Line renderer improved",
-		"Text tool missed options fixed",
-		"Semitransparency support for brushes",
+		"Paletto",
+		"Now you can find palette usages in Pixel Network",
+		"Improved algorithm for Functions/Apply Palette",
+		"Comment limit = 20 for authors",
 		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":99,

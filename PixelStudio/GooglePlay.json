@@ -1,9 +1,11 @@
 {
-	"LastMajorVersion":"4.61",
+	"LastMajorVersion":"4.64",
 	"UpdateNotes":
 	[
-		"You can rate uploads in Pixel Network now!",
-		"Sign in to Pixel Network with one-time codes",
+		"Paletto",
+		"Now you can find palette usages in Pixel Network",
+		"Improved algorithm for Functions/Apply Palette",
+		"Comment limit = 20 for authors",
 		"Minor improvements and bug fixes"
 	],
 	"AdIntervalMinutes":15,
