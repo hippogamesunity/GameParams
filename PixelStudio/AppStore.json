@@ -1,12 +1,8 @@
 {
-	"LastMajorVersion":"4.64",
+	"LastMajorVersion":"4.73",
 	"UpdateNotes":
-	[
-		"Paletto",
-		"Now you can find palette usages in Pixel Network",
-		"Improved algorithm for Functions/Apply Palette",
-		"Comment limit = 20 for authors",
-		"Minor improvements and bug fixes"
+	[		
+		"Minor improvements and critical bug fixes"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
