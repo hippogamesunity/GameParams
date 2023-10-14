@@ -1,8 +1,11 @@
 {
-	"LastMajorVersion":"4.72",
+	"LastMajorVersion":"4.82",
 	"UpdateNotes":
-	[
-		"Minor improvements and critical bug fixes"
+	[	
+		"Google Drive Backup (FREE) & Sync (PRO)",
+		"You can now upgrade from PRO to PRO CROSS",
+		"You can now gift PRO CROSS to your friend",
+		"Minor fixes"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":

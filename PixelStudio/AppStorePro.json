@@ -1,12 +1,11 @@
 {
-	"LastMajorVersion":"4.57",
+	"LastMajorVersion":"4.82",
 	"UpdateNotes":
-	[
-		"BEST OF THE WEEK badges in Pixel Network",
-		"Line renderer improved",
-		"Text tool missed options fixed",
-		"Semitransparency support for brushes",
-		"Minor improvements and bug fixes"
+	[	
+		"Google Drive Backup (FREE) & Sync (PRO)",
+		"You can now upgrade from PRO to PRO CROSS",
+		"You can now gift PRO CROSS to your friend",
+		"Minor fixes"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
