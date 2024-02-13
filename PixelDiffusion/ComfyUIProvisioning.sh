@@ -6,8 +6,9 @@
 
 
 NODES=(
-    "https://github.com/ltdrdata/ComfyUI-Manager"
 	"https://github.com/42lux/ComfyUI-safety-checker"
+    "https://github.com/ltdrdata/ComfyUI-Manager"
+	"https://github.com/tzwm/comfyui-profiler"
 )
 
 CHECKPOINT_MODELS=(
