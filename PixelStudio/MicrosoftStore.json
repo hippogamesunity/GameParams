@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"4.82",
+	"LastMajorVersion":"4.92",
 	"UpdateNotes":
 	[	
-		"Google Drive Backup (FREE) & Sync (PRO)",
-		"You can now upgrade from PRO to PRO CROSS",
-		"You can now gift PRO CROSS to your friend",
-		"Minor fixes"
+		"New upload options for Pixel Network",
+		"Critical bugs fixed"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
