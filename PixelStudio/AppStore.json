@@ -1,11 +1,9 @@
 {
-	"LastMajorVersion":"4.87",
+	"LastMajorVersion":"4.90",
 	"UpdateNotes":
 	[	
-		"Build size optimized (-21%)",
-		"Lags when playing large animations fixed",
-		"Emoji support added in Pixel Network",
-		"Compatibility with old projects fixed"
+		"New upload options for Pixel Network",
+		"Bugs fixed"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
