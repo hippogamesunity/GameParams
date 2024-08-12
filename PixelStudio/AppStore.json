@@ -10,7 +10,7 @@
 	[
 		{"Url":"https://apps.apple.com/app/id1477015249","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/AppStoreMac.png"},		
 		{"Url":"https://twitter.com/PixelStudioTeam/status/1275178789157421056","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/Aseprite.png"},
-		{"Url":"https://apps.apple.com/app/id1669320797","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/PixelDiffusion.png"},
+		{"Url":"https://apps.apple.com/app/id1669320797","ImageUrl":"https://raw.githubusercontent.com/hippogamesunity/GameParams/master/PixelStudio/Ads/PixelDiffusion.png"}
 	],
 	"SundaySale":true,
 	"RandomMonthlySales":0,
