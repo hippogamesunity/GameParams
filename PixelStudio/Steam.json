@@ -1,9 +1,9 @@
 {
-	"LastMajorVersion":"4.90",
+	"LastMajorVersion":"5.02",
 	"UpdateNotes":
 	[	
-		"New upload options for Pixel Network",
-		"Bugs fixed"
+		"Google Drive bug fixed",
+		"Minor improvements"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":

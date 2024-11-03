@@ -1,9 +1,8 @@
 {
-	"LastMajorVersion":"4.95",
+	"LastMajorVersion":"5.02",
 	"UpdateNotes":
 	[	
-		"Google Drive 404 error fixed",
-		"Arabic translation fixed",
+		"Google Drive bug fixed",
 		"Minor improvements"
 	],
 	"AdIntervalMinutes":99,
