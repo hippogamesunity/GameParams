@@ -1,10 +1,12 @@
 {
-	"LastMajorVersion":"4.95",
+	"LastMajorVersion":"5.05",
 	"UpdateNotes":
 	[	
-		"Google Drive 404 error fixed",
-		"Arabic translation fixed",
-		"Minor improvements"
+		"Layer groups added to Advanced Template",
+		"Palette button gestures (double click to edit, long press to delete)",
+		"Links to authors (@) and artworks (*) in comments (Pixel Network)",
+		"GIF slow playback fixed (Pixel Network)",
+		"Sign-in with Play ID added"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":

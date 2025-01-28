@@ -1,9 +1,12 @@
 {
-	"LastMajorVersion":"5.02",
+	"LastMajorVersion":"5.05",
 	"UpdateNotes":
 	[	
-		"Google Drive bug fixed",
-		"Minor improvements"
+		"Layer groups added to Advanced Template",
+		"Palette button gestures (double click to edit, long press to delete)",
+		"Links to authors (@) and artworks (*) in comments (Pixel Network)",
+		"GIF slow playback fixed (Pixel Network)",
+		"Sign-in with Play ID added"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
