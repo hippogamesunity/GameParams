@@ -1,9 +1,13 @@
 {
-	"LastMajorVersion":"4.90",
+	"LastMajorVersion":"5.12",
 	"UpdateNotes":
 	[	
-		"New upload options for Pixel Network",
-		"Bugs fixed"
+		"Layer groups added to Advanced Template",
+		"Palette button gestures (double click to edit, long press to delete)",
+		"Links to authors (@) and artworks (*) in comments (Pixel Network)",
+		"GIF slow playback fixed (Pixel Network)",
+		"Sign-in with Play ID added",
+		"Bug fixes"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":

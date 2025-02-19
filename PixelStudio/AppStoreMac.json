@@ -1,11 +1,13 @@
 {
-	"LastMajorVersion":"4.82",
+	"LastMajorVersion":"5.12",
 	"UpdateNotes":
 	[	
-		"Google Drive Backup (FREE) & Sync (PRO)",
-		"You can now upgrade from PRO to PRO CROSS",
-		"You can now gift PRO CROSS to your friend",
-		"Minor fixes"
+		"Layer groups added to Advanced Template",
+		"Palette button gestures (double click to edit, long press to delete)",
+		"Links to authors (@) and artworks (*) in comments (Pixel Network)",
+		"GIF slow playback fixed (Pixel Network)",
+		"Sign-in with Play ID added",
+		"Bug fixes"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
