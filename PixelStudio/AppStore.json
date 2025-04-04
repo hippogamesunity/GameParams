@@ -1,12 +1,9 @@
 {
-	"LastMajorVersion":"5.12",
+	"LastMajorVersion":"5.18",
 	"UpdateNotes":
 	[	
-		"Layer groups added to Advanced Template",
-		"Palette button gestures (double click to edit, long press to delete)",
-		"Links to authors (@) and artworks (*) in comments (Pixel Network)",
-		"GIF slow playback fixed (Pixel Network)",
-		"Sign-in with Play ID added",
+		"Improved Reference features",
+		"Bookmarks for folders in Storage",
 		"Bug fixes"
 	],
 	"AdIntervalMinutes":15,
