@@ -1,10 +1,9 @@
 {
-	"LastMajorVersion":"5.17",
+	"LastMajorVersion":"5.22",
 	"UpdateNotes":
 	[	
-		"Improved Reference features",
-		"Bookmarks for folders in Storage",
-		"Bug fixes"
+		"Interactive Animation Template",
+		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
