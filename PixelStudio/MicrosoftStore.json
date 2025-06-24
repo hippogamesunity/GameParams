@@ -1,8 +1,8 @@
 {
-	"LastMajorVersion":"5.25",
+	"LastMajorVersion":"5.31",
 	"UpdateNotes":
 	[	
-		"Interactive Animation Template",
+		"Script engine added (Layer menu)",
 		"Minor bugs fixed"
 	],
 	"AdIntervalMinutes":99,
