@@ -1,9 +1,10 @@
 {
-	"LastMajorVersion":"5.33",
+	"LastMajorVersion":"5.36",
 	"UpdateNotes":
 	[	
-		"Script engine added (Layer menu)",
-		"Minor bugs fixed"
+		"You can create sprite and brush collections now",
+		"Bulk link / unlink frames (Layer Manager)",
+		"Technical issues fixed"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
