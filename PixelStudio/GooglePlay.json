@@ -1,10 +1,8 @@
 {
-	"LastMajorVersion":"5.41",
+	"LastMajorVersion":"5.42",
 	"UpdateNotes":
 	[	
-		"You can create sprite and brush collections now",
-		"Bulk link / unlink frames (Layer Manager)",
-		"Technical issues fixed"
+		"IAP issues fixed"
 	],
 	"AdIntervalMinutes":15,
 	"Ads":
