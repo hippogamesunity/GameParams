@@ -1,8 +1,13 @@
 {
-	"LastMajorVersion":"5.42",
+	"LastMajorVersion":"5.47",
 	"UpdateNotes":
 	[	
-		"IAP issues fixed"
+		"New Outline tool",
+		"CMYK color format support",
+		"Quick navigation by frames",
+		"New color quantizer (Layer menu)",
+		"Gestures support in Preview",
+		"Localization fix suggestions (Settings)"
 	],
 	"AdIntervalMinutes":99,
 	"Ads":
@@ -14,5 +19,5 @@
 	"RandomMonthlySales":0,
 	"FixedSales":[],
 	"HolidaySales":["07/04/*","11/11/*","12/25/*","01/01/*"],
-	"RuPaymentLink":"https://vk.com/pixelstudio_app?w=wall-167549562_13849"
+	"RuPaymentLink":"https://vk.com/pixelstudio_app?w=wall-167549562_13881"
 }
